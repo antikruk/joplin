@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-09 03:00\n"
+"PO-Revision-Date: 2024-11-09 09:00\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -487,7 +487,7 @@ msgstr ""
 #: packages/server/src/models/UserModel.ts:247
 #: packages/server/src/models/UserModel.ts:264
 msgid "attachment"
-msgstr "укладзеныя файлы"
+msgstr "далучаныя файлы"
 
 #: packages/lib/models/Resource.ts:509
 msgid "Attachment conflict: \"%s\""
@@ -752,7 +752,7 @@ msgstr "Змяніць мову"
 
 #: packages/app-desktop/gui/NoteContentPropertiesDialog.tsx:106
 msgid "Characters"
-msgstr "Сімвалы"
+msgstr "Знакі"
 
 #: packages/app-desktop/gui/NoteContentPropertiesDialog.tsx:107
 msgid "Characters excluding spaces"
@@ -893,7 +893,7 @@ msgstr "каманда"
 
 #: packages/app-desktop/gui/KeymapConfig/KeymapConfigScreen.tsx:177
 msgid "Command"
-msgstr "Загад"
+msgstr "Каманда"
 
 #: packages/app-desktop/plugins/GotoAnything.tsx:696
 msgid "Command palette"
@@ -1003,7 +1003,7 @@ msgstr ""
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/utils/useContextMenu.ts:94
 #: packages/app-desktop/gui/NoteEditor/utils/contextMenu.ts:188
 msgid "Copy"
-msgstr "Капіяваць"
+msgstr "Скапіяваць"
 
 #: packages/app-desktop/commands/copyDevCommand.ts:8
 msgid "Copy dev mode command to clipboard"
@@ -1416,7 +1416,7 @@ msgstr ""
 #: packages/app-mobile/components/screens/encryption-config.tsx:306
 #: packages/lib/models/Setting.ts:1505
 msgid "Disabled"
-msgstr "Неактыўныя вокны"
+msgstr "Адключана"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:200
 #: packages/app-mobile/components/screens/encryption-config.tsx:243
@@ -1564,7 +1564,7 @@ msgstr ""
 #: packages/app-mobile/components/ScreenHeader/index.tsx:502
 #: packages/app-mobile/components/ScreenHeader/index.tsx:561
 msgid "Duplicate"
-msgstr "Дубляваць"
+msgstr "Стварыць дублікат"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:114
 msgid "Duplicate line"
@@ -1957,7 +1957,7 @@ msgstr ""
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/ExportProfileButton.tsx:16
 msgid "Export profile"
-msgstr "Экспарт профілю"
+msgstr "Экспартаваць профіль"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteExportButton.tsx:75
 msgid "Exported successfully!"
@@ -2002,7 +2002,7 @@ msgstr ""
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:625
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:633
 msgid "Feature flags"
-msgstr "Эксперыментальныя функцыі"
+msgstr "Адзнакі функцый"
 
 #: packages/lib/Synchronizer.ts:205
 msgid "Fetched items: %d/%d."
@@ -2206,7 +2206,7 @@ msgstr ""
 
 #: packages/server/src/routes/admin/users.ts:206
 msgid "Hide disabled"
-msgstr "Схаваць выключаныя"
+msgstr "Схаваць адключаныя"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:160
 msgid "Hide disabled keys"
@@ -2378,7 +2378,7 @@ msgstr ""
 
 #: packages/lib/Synchronizer.ts:325
 msgid "In progress"
-msgstr "Спампоўка…"
+msgstr "Выконваецца"
 
 #: packages/app-desktop/gui/NoteEditor/NoteEditor.tsx:566
 msgid "In: %s"
@@ -2410,7 +2410,7 @@ msgstr ""
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/setupToolbarButtons.ts:24
 msgid "Insert"
-msgstr "Знак устаўляння"
+msgstr "Уставіць"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v5/CodeMirror.tsx:193
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/useEditorCommands.ts:74
@@ -3518,7 +3518,7 @@ msgstr "Налады"
 
 #: packages/app-desktop/gui/MenuBar.tsx:612
 msgid "Preferences..."
-msgstr "Настаўленні..."
+msgstr "Налады..."
 
 #: packages/lib/models/Setting.ts:939
 msgid "Preferred dark theme"
@@ -3554,7 +3554,7 @@ msgstr ""
 
 #: packages/app-desktop/gui/MainScreen/commands/print.ts:7
 msgid "Print"
-msgstr "Друк"
+msgstr "Друкаванне"
 
 #: packages/lib/utils/joplinCloud/index.ts:222
 msgid "Priority support"
@@ -3582,7 +3582,7 @@ msgstr ""
 
 #: packages/lib/models/Resource.ts:32
 msgid "Processing"
-msgstr "Апрацоўка"
+msgstr "Апрацоўванне"
 
 #: packages/server/src/routes/admin/users.ts:254
 msgid "Profile"
@@ -3709,7 +3709,7 @@ msgstr "Рэгулярны выраз"
 #: packages/app-desktop/gui/Root.tsx:183
 #: packages/app-mobile/components/screens/ShareManager/IncomingShareItem.tsx:45
 msgid "Reject"
-msgstr "Адмовіць"
+msgstr "Адхіліць"
 
 #: packages/app-desktop/gui/Sidebar/hooks/useOnRenderItem.tsx:92
 msgid "Remove"
@@ -3726,7 +3726,7 @@ msgstr ""
 #: packages/app-desktop/gui/MainScreen/commands/renameFolder.ts:8
 #: packages/app-desktop/gui/MainScreen/commands/renameTag.ts:8
 msgid "Rename"
-msgstr "Змяніць назву (%1 выява)"
+msgstr "Змяніць назву"
 
 #: packages/app-desktop/gui/MainScreen/commands/renameFolder.ts:22
 msgid "Rename notebook:"

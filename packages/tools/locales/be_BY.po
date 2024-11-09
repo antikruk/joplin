@@ -15,24 +15,24 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-09 09:00\n"
+"PO-Revision-Date: 2024-11-09 15:00\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
-msgstr ""
+msgstr "- Камера: дае магчымасць зрабіць здымак і далучыць яго да нататкі."
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:603
 msgid "- Location: to allow attaching geo-location information to a note."
-msgstr ""
+msgstr "- Месцазнаходжанне: дае магчымасць далучаць да нататкі інфармацыю пра геаграфічнае месцазнаходжанне."
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:597
 msgid "- Storage: to allow attaching files to notes and to enable filesystem synchronisation."
-msgstr ""
+msgstr "- Сховішча: дае магчымасць далучаць файлы да нататак і ўключаць сінхранізацыю файлавай сістэмы."
 
 #: packages/lib/services/KeymapService.ts:322
 #: packages/lib/services/KeymapService.ts:328
 msgid "\"%s\" is missing the required \"%s\" property."
-msgstr ""
+msgstr "У \"%s\" няма неабходнай ўласцівасці \"%s\"."
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginBox.tsx:262
 msgid "(%s)"
@@ -40,7 +40,7 @@ msgstr "(%s)"
 
 #: packages/lib/services/plugins/api/JoplinViewsDialogs.ts:76
 msgid "(In plugin: %s)"
-msgstr ""
+msgstr "(ва ўбудове: %s)"
 
 #: packages/lib/SyncTargetNone.ts:16
 msgid "(None)"
@@ -48,12 +48,12 @@ msgstr "(Няма)"
 
 #: packages/lib/models/Setting.ts:417 packages/lib/models/Setting.ts:418
 msgid "(wysiwyg: %s)"
-msgstr ""
+msgstr "(wysiwyg: %s)"
 
 #: packages/app-mobile/components/screens/Note.tsx:745
 #: packages/lib/shim-init-node.ts:255
 msgid "(You may disable this prompt in the options)"
-msgstr ""
+msgstr "(Вы можаце адключыць гэты запыт у параметрах)"
 
 #: packages/app-desktop/gui/MenuBar.tsx:1023
 #: packages/app-desktop/gui/MenuBar.tsx:725
@@ -76,7 +76,7 @@ msgstr "&Даведка"
 
 #: packages/app-desktop/gui/MenuBar.tsx:866
 msgid "&Note"
-msgstr ""
+msgstr "&Нататка"
 
 #: packages/app-desktop/gui/MenuBar.tsx:879
 msgid "&Tools"
@@ -98,13 +98,13 @@ msgstr "%d дзён"
 #: packages/lib/utils/joplinCloud/index.ts:149
 #: packages/lib/utils/joplinCloud/index.ts:150
 msgid "%d GB"
-msgstr ""
+msgstr "%d ГБ"
 
 #: packages/lib/utils/joplinCloud/index.ts:145
 #: packages/lib/utils/joplinCloud/index.ts:146
 #: packages/lib/utils/joplinCloud/index.ts:147
 msgid "%d GB storage space"
-msgstr ""
+msgstr "%d ГБ месца для захоўвання"
 
 #: packages/lib/models/Setting.ts:1509
 msgid "%d hour"
@@ -118,13 +118,13 @@ msgstr "%d гадзін"
 #: packages/lib/utils/joplinCloud/index.ts:137
 #: packages/lib/utils/joplinCloud/index.ts:138
 msgid "%d MB"
-msgstr ""
+msgstr "%d МБ"
 
 #: packages/lib/utils/joplinCloud/index.ts:133
 #: packages/lib/utils/joplinCloud/index.ts:134
 #: packages/lib/utils/joplinCloud/index.ts:135
 msgid "%d MB per note or attachment"
-msgstr ""
+msgstr "%d МБ на нататку або далучэнне"
 
 #: packages/lib/models/Setting.ts:1506 packages/lib/models/Setting.ts:1507
 #: packages/lib/models/Setting.ts:1508
@@ -133,11 +133,11 @@ msgstr "%d хвілін"
 
 #: packages/app-cli/app/command-rmnote.ts:34
 msgid "%d notes match this pattern. Delete them?"
-msgstr ""
+msgstr "%d нататкі(ак) адпавядаюць гэтаму шаблону. Выдаліць іх?"
 
 #: packages/app-cli/app/command-rmnote.ts:40
 msgid "%d notes will be permanently deleted. Continue?"
-msgstr ""
+msgstr "%d нататкі(ак) будуць выдалены назаўсёды. Працягнуць?"
 
 #: packages/app-desktop/gui/NoteListControls/NoteListControls.tsx:227
 #: packages/app-desktop/gui/NoteListControls/NoteListControls.tsx:237
@@ -146,86 +146,86 @@ msgstr "%s"
 
 #: packages/app-desktop/gui/MainScreen/commands/duplicateNote.ts:18
 msgid "%s - Copy"
-msgstr ""
+msgstr "%s - скапіяваць"
 
 #: packages/lib/services/ReportService.ts:192
 msgid "%s (%s) could not be uploaded: %s"
-msgstr ""
+msgstr "Немагчыма запампаваць %s (%s): %s"
 
 #: packages/app-desktop/gui/MainScreen/MainScreen.tsx:675
 #: packages/app-mobile/components/ScreenHeader/WarningBanner.tsx:68
 msgid "%s (%s) would like to share a notebook with you."
-msgstr ""
+msgstr "%s (%s) хоча абагуліць з вамі нататнік."
 
 #: packages/lib/services/ReportService.ts:306
 msgid "%s (%s): %s"
-msgstr ""
+msgstr "%s (%s): %s"
 
 #: packages/app-desktop/checkForUpdates.ts:103
 msgid "%s (pre-release)"
-msgstr ""
+msgstr "%s (папярэдні выпуск)"
 
 #: packages/lib/models/Setting.ts:962 packages/lib/models/Setting.ts:963
 #: packages/lib/models/Setting.ts:964
 msgid "%s / %s"
-msgstr ""
+msgstr "%s / %s"
 
 #: packages/lib/models/Setting.ts:961
 msgid "%s / %s / %s"
-msgstr ""
+msgstr "%s / %s / %s"
 
 #: packages/lib/versionInfo.ts:74
 msgid "%s %s (%s, %s)"
-msgstr ""
+msgstr "%s %s (%s, %s)"
 
 #: packages/app-cli/app/command-config.ts:87
 msgid "%s = %s"
-msgstr ""
+msgstr "%s = %s"
 
 #: packages/app-cli/app/command-config.ts:85
 msgid "%s = %s (%s)"
-msgstr ""
+msgstr "%s = %s (%s)"
 
 #: packages/app-desktop/gui/SyncWizard/Dialog.tsx:217
 msgid "%s is not optimised for synchronising many small files so your initial synchronisation will be slow."
-msgstr ""
+msgstr "%s не аптымізаваны для сінхранізацыі вялікай колькасці невялікіх файлаў, таму першапачатковая сінхранізацыя будзе павольнай."
 
 #: packages/app-mobile/plugins/PluginRunner/dialogs/PluginPanelViewer.tsx:75
 msgid "%s tab opened"
-msgstr ""
+msgstr "%s ўкладка(і) адкрыта"
 
 #: packages/lib/services/ReportService.ts:286
 #: packages/lib/services/ReportService.ts:287
 #: packages/lib/services/ReportService.ts:288
 #: packages/lib/services/ReportService.ts:291
 msgid "%s: %d"
-msgstr ""
+msgstr "%s: %d"
 
 #: packages/lib/services/ReportService.ts:343
 msgid "%s: %d notes"
-msgstr ""
+msgstr "%s: %d нататкі(ак)"
 
 #: packages/lib/services/ReportService.ts:325
 msgid "%s: %d/%d"
-msgstr ""
+msgstr "%s: %d/%d"
 
 #: packages/app-cli/app/cli-utils.js:156
 #: packages/lib/services/ReportService.ts:261
 msgid "%s: %s"
-msgstr ""
+msgstr "%s: %s"
 
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:227
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:265
 msgid "%s: Missing password."
-msgstr ""
+msgstr "%s: няма пароля."
 
 #: packages/app-cli/app/command-tag.js:14
 msgid "<tag-command> can be \"add\", \"remove\", \"list\", or \"notetags\" to assign or remove [tag] from [note], to list notes associated with [tag], or to list tags associated with [note]. The command `tag list` can be used to list all the tags (use -l for long option)."
-msgstr ""
+msgstr "<tag-command> \"add\" - дадаць тэг, \"remove\" - выдаліць тэг, \"list\" - пералічыць нататкі, звязаныя з [tag], \"notetags\" - пералічыць тэгі, звязаныя з [note]. Каманда \"tag list\" выкарыстоўваецца для вываду ўсіх тэгаў (\"-l\" - разгорнуты выгляд)."
 
 #: packages/app-cli/app/command-todo.js:14
 msgid "<todo-command> can either be \"toggle\" or \"clear\". Use \"toggle\" to toggle the given to-do between completed and uncompleted state (If the target is a regular note it will be converted to a to-do). Use \"clear\" to convert the to-do back to a regular note."
-msgstr ""
+msgstr "<todo-command> можа быць альбо \"toggle\", альбо \"clear\". Выкарыстоўвайце \"toggle\", каб пераключаць стан задач паміж (калі мэтавы элемент - звычайная нататка, яна будзе ператворана ў задачу). Выкарыстоўвайце \"clear\", каб пераўтварыць задачу назад у звычайную нататку."
 
 #: packages/lib/models/Setting.ts:1535
 msgid "A3"
@@ -247,20 +247,20 @@ msgstr "Пра праграму"
 #: packages/app-desktop/gui/MenuBar.tsx:605
 #: packages/app-desktop/gui/MenuBar.tsx:942
 msgid "About Joplin"
-msgstr ""
+msgstr "Пра Joplin"
 
 #: packages/lib/services/KeymapService.ts:328
 #: packages/lib/services/KeymapService.ts:333
 msgid "accelerator"
-msgstr ""
+msgstr "гарачая клавіша"
 
 #: packages/lib/services/KeymapService.ts:385
 msgid "Accelerator \"%s\" is not valid."
-msgstr ""
+msgstr "Гарачая клавіша \"%s\" несапраўдная."
 
 #: packages/lib/services/KeymapService.ts:354
 msgid "Accelerator \"%s\" is used for \"%s\" and \"%s\" commands. This may lead to unexpected behaviour."
-msgstr ""
+msgstr "Гарачая клавіша \"%s\" выкарыстоўваецца для каманд \"%s\" і \"%s\". Гэта можа прывесці да нечаканых паводзін."
 
 #: packages/app-desktop/gui/MainScreen/MainScreen.tsx:676
 #: packages/app-mobile/components/screens/ShareManager/IncomingShareItem.tsx:40
@@ -269,15 +269,15 @@ msgstr "Ухваліць"
 
 #: packages/app-mobile/components/screens/ShareManager/index.tsx:98
 msgid "Accepted invitations"
-msgstr ""
+msgstr "Прынятыя запрашэнні"
 
 #: packages/lib/WebDavApi.js:451
 msgid "Access denied: Please check your username and password"
-msgstr ""
+msgstr "У доступе адмоўлена: праверце імя карыстальніка і пароль"
 
 #: packages/lib/WebDavApi.js:449
 msgid "Access denied: Please re-enter your password and/or username"
-msgstr ""
+msgstr "У доступе адмоўлена: паўторна ўвядзіце свой пароль і(або) імя карыстальніка"
 
 #: packages/server/src/routes/admin/users.ts:144
 msgid "Account"
@@ -286,7 +286,7 @@ msgstr "Акаўнт"
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:31
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:48
 msgid "Account information"
-msgstr ""
+msgstr "Звесткі пра акаўнт"
 
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:35
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:51
@@ -310,11 +310,11 @@ msgstr "Актыўна"
 #: packages/app-desktop/gui/KeymapConfig/utils/getLabel.ts:18
 #: packages/app-desktop/gui/MenuBar.tsx:816
 msgid "Actual Size"
-msgstr ""
+msgstr "Актуальны памер"
 
 #: packages/app-mobile/components/screens/Note.tsx:1568
 msgid "Add body"
-msgstr ""
+msgstr "Дадаць цела"
 
 #: packages/app-mobile/components/ActionButton.tsx:82
 msgid "Add new"
@@ -322,15 +322,15 @@ msgstr "Дадаць"
 
 #: packages/app-desktop/gui/MainScreen/commands/setTags.ts:43
 msgid "Add or remove tags:"
-msgstr ""
+msgstr "Дадаць або выдаліць тэгі:"
 
 #: packages/app-desktop/gui/ShareFolderDialog/ShareFolderDialog.tsx:276
 msgid "Add recipient:"
-msgstr ""
+msgstr "Дадаць атрымальніка:"
 
 #: packages/app-mobile/components/screens/Note.tsx:1641
 msgid "Add title"
-msgstr ""
+msgstr "Дадаць назву"
 
 #: packages/lib/services/spellChecker/SpellCheckerService.ts:134
 msgid "Add to dictionary"
@@ -343,7 +343,7 @@ msgstr "Адміністратар"
 
 #: packages/server/src/routes/admin/dashboard.ts:10
 msgid "Admin dashboard"
-msgstr ""
+msgstr "Панэль кіравання адміністратара"
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:138
 msgid "Advanced options"
@@ -355,37 +355,37 @@ msgstr "Дадатковыя налады"
 
 #: packages/app-desktop/gui/StatusScreen/StatusScreen.tsx:196
 msgid "Advanced tools"
-msgstr ""
+msgstr "Дадатковыя інструменты"
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileSwitcher.tsx:99
 msgid "All data, including notes, notebooks and tags will be permanently deleted."
-msgstr ""
+msgstr "Усе даныя, у тым ліку нататкі, нататнікі і тэгі, будуць выдалены назаўсёды."
 
 #: packages/lib/services/ReportService.ts:227
 msgid "All item sync failures have been marked as \"ignored\"."
-msgstr ""
+msgstr "Усе збоі сінхранізацыі элементаў былі пазначаны як \"праігнараваныя\"."
 
 #: packages/app-desktop/gui/Sidebar/listItemComponents/AllNotesItem.tsx:61
 #: packages/app-mobile/components/screens/Notes.tsx:184
 #: packages/app-mobile/components/side-menu-content.tsx:557
 msgid "All notes"
-msgstr ""
+msgstr "Усе нататкі"
 
 #: packages/lib/onedrive-api-node-utils.js:46
 msgid "All potential ports are in use - please report the issue at %s"
-msgstr ""
+msgstr "Усе патэнцыйныя парты выкарыстоўваюцца - паведаміце пра праблему на %s"
 
 #: packages/lib/models/Setting.ts:1230
 msgid "Allows debugging mobile plugins. See %s for details."
-msgstr ""
+msgstr "Дае магчымасць адладжваць мабільныя ўбудовы. Падрабязнасці глядзіце ў %s."
 
 #: packages/app-cli/app/command-config.ts:19
 msgid "Also displays unset and hidden config variables."
-msgstr ""
+msgstr "Таксама паказвае нявызначаныя і схаваныя зменныя канфігурацыі."
 
 #: packages/app-desktop/gui/ShareNoteDialog.tsx:204
 msgid "Also publish linked notes"
-msgstr ""
+msgstr "Таксама публікаваць звязаныя нататкі"
 
 #: packages/lib/models/Setting.ts:784
 msgid "Always"
@@ -397,24 +397,24 @@ msgstr "Заўсёды пытацца"
 
 #: packages/app-desktop/bridge.ts:421
 msgid "Always open %s files without asking."
-msgstr ""
+msgstr "Заўсёды адкрываць файлы %s без пацвярджэння."
 
 #: packages/lib/models/Setting.ts:1188
 msgid "Always resize"
-msgstr ""
+msgstr "Заўсёды змяняць памер"
 
 #: packages/app-cli/app/command-mv.ts:37
 msgid "Ambiguous notebook \"%s\". Please use notebook id instead - press \"ti\" to see the short notebook id or use $b for current selected notebook"
-msgstr ""
+msgstr "Няясны нататнік \"%s\". Выкарыстоўвайце замест гэтага ідэнтыфікатар нататніка - націсніце \"ti\", каб убачыць кароткі ідэнтыфікатар нататніка, або выкарыстоўвайце $b для бягучага абранага нататніка"
 
 #: packages/app-cli/app/command-mkbook.ts:33
 #: packages/app-cli/app/command-mv.ts:30
 msgid "Ambiguous notebook \"%s\". Please use short notebook id instead - press \"ti\" to see the short notebook id"
-msgstr ""
+msgstr "Няясны нататнік \"%s\". Выкарыстоўвайце замест гэтага ідэнтыфікатар нататніка - націсніце \"ti\", каб убачыць кароткі ідэнтыфікатар нататніка"
 
 #: packages/app-mobile/components/NoteEditor/ImageEditor/promptRestoreAutosave.ts:13
 msgid "An autosaved drawing was found. Attach a copy of it to the note?"
-msgstr ""
+msgstr "Знойдзены аўтаматычна захаваны рысунак. Далучыць яго копію да нататкі?"
 
 #: packages/app-desktop/ElectronAppWrapper.ts:95
 msgid "An error occurred: %s"
@@ -422,16 +422,16 @@ msgstr "Узнікла памылка: %s"
 
 #: packages/app-desktop/checkForUpdates.ts:107
 msgid "An update is available, do you want to download it now?"
-msgstr ""
+msgstr "Даступна абнаўленне. Хочаце спампаваць яго зараз?"
 
 #: packages/app-mobile/utils/getVersionInfoText.ts:21
 msgid "Android API level: %d"
-msgstr ""
+msgstr "Узровень API Android: %d"
 
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:48
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:24
 msgid "Any email sent to this address will be converted into a note and added to your collection. The note will be saved into the Inbox notebook"
-msgstr ""
+msgstr "Любы ліст, адпраўлены на гэты адрас, будзе пераўтвораны ў нататку і дададзены ў вашую калекцыю. Нататка будзе захаваная ў нататніку \"Уваходныя\""
 
 #: packages/lib/models/Setting.ts:2804
 msgid "Appearance"
@@ -447,11 +447,11 @@ msgstr "Ужыць"
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:37
 msgid "Are you sure you want to renew the authorisation token?"
-msgstr ""
+msgstr "Сапраўды хочаце абнавіць токен аўтарызацыі?"
 
 #: packages/app-desktop/gui/MainScreen/commands/resetLayout.ts:14
 msgid "Are you sure you want to return to the default layout? The current layout configuration will be lost."
-msgstr ""
+msgstr "Сапраўды хочаце вярнуцца да прадвызначанага макета? Бягучая канфігурацыя макета будзе страчана."
 
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:573
 msgid "Arguments:"
@@ -459,7 +459,7 @@ msgstr "Аргументы:"
 
 #: packages/lib/models/Setting.ts:436
 msgid "Aritim Dark"
-msgstr ""
+msgstr "Aritim Dark"
 
 #: packages/app-mobile/components/NoteEditor/ImageEditor/promptRestoreAutosave.ts:25
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useActionButtons.ts:48
@@ -470,19 +470,19 @@ msgstr "Далучыць"
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/TinyMCE.tsx:675
 #: packages/app-mobile/components/screens/Note.tsx:1134
 msgid "Attach file"
-msgstr ""
+msgstr "Далучыць файл"
 
 #: packages/app-mobile/components/screens/Note.tsx:1138
 msgid "Attach photo"
-msgstr ""
+msgstr "Далучыць фота"
 
 #: packages/app-mobile/components/screens/Note.tsx:1238
 msgid "Attach..."
-msgstr ""
+msgstr "Далучыць..."
 
 #: packages/app-cli/app/command-attach.ts:13
 msgid "Attaches the given file to the note."
-msgstr ""
+msgstr "Далучэнне файла да нататкі."
 
 #: packages/server/src/models/UserModel.ts:247
 #: packages/server/src/models/UserModel.ts:264
@@ -491,11 +491,11 @@ msgstr "далучаныя файлы"
 
 #: packages/lib/models/Resource.ts:509
 msgid "Attachment conflict: \"%s\""
-msgstr ""
+msgstr "Канфлікт далучаных файлаў: \"%s\""
 
 #: packages/lib/models/Setting.ts:780
 msgid "Attachment download behaviour"
-msgstr ""
+msgstr "Паводзіны пры спампоўванні далучэнняў"
 
 #: packages/lib/services/ReportService.ts:277
 msgid "Attachments"
@@ -503,11 +503,11 @@ msgstr "Далучаныя файлы"
 
 #: packages/lib/services/ReportService.ts:301
 msgid "Attachments that could not be downloaded"
-msgstr ""
+msgstr "Далучаныя файлы, якія немагчыма спампаваць"
 
 #: packages/lib/models/Setting.ts:421
 msgid "Attention: If you change this location, make sure you copy all your content to it before syncing, otherwise all files will be removed! See the FAQ for more details: %s"
-msgstr ""
+msgstr "Увага: калі вы зменіце гэтае размяшчэнне, пераканайцеся, што перад сінхранізацыяй вы скапіявалі ў яго ўсё сваё змесціва, інакш усе файлы выдаляцца! Каб даведацца падрабязней, глядзіце \"Пытанні і адказы\": %s"
 
 #: packages/app-cli/app/command-sync.ts:72
 #: packages/app-cli/app/command-sync.ts:86
@@ -2662,11 +2662,11 @@ msgstr "Юрыдычная інфармацыя"
 
 #: packages/lib/models/Setting.ts:1534
 msgid "Letter"
-msgstr "Letter"
+msgstr "Літара"
 
 #: packages/lib/models/Setting.ts:430
 msgid "Light"
-msgstr "Светлы"
+msgstr "Светлая"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/EnablePluginSupportPage.tsx:110
 msgid "Like any software you install, plugins can potentially cause security issues or data loss."
@@ -2924,11 +2924,11 @@ msgstr ""
 #: packages/app-cli/app/cli-utils.js:177
 #: packages/app-cli/app/setupCommand.ts:23
 msgid "n"
-msgstr "н"
+msgstr "n"
 
 #: packages/app-cli/app/setupCommand.ts:23
 msgid "N"
-msgstr "Пнч"
+msgstr "N"
 
 #: packages/lib/models/Setting.ts:1189
 msgid "Never resize"
@@ -2936,7 +2936,7 @@ msgstr ""
 
 #: packages/app-desktop/gui/Sidebar/listItemComponents/HeaderItem.tsx:46
 msgid "New"
-msgstr "Новы"
+msgstr "Стварыць"
 
 #: packages/app-mobile/components/screens/ShareManager/index.tsx:120
 msgid "New invitations"
@@ -3195,7 +3195,7 @@ msgstr ""
 #: packages/app-desktop/gui/MainScreen/commands/toggleNotesSortOrderField.ts:8
 #: packages/app-desktop/gui/MainScreen/commands/toggleNotesSortOrderReverse.ts:9
 msgid "Notes"
-msgstr "Заметкі"
+msgstr "Нататкі"
 
 #: packages/lib/models/Setting.ts:2829
 msgid "Notes and settings are stored in: %s"
@@ -3229,7 +3229,7 @@ msgstr ""
 #: packages/app-mobile/utils/showMessageBox.ts:13
 #: packages/lib/components/shared/config/plugins/useOnInstallHandler.ts:72
 msgid "OK"
-msgstr "ДОБРА"
+msgstr "Добра"
 
 #: packages/lib/models/Setting.ts:437
 msgid "OLED Dark"
@@ -4035,7 +4035,7 @@ msgstr ""
 #: packages/app-mobile/components/screens/Note.tsx:1252
 #: packages/app-mobile/components/SelectDateTimeDialog.tsx:144
 msgid "Set alarm"
-msgstr "Усталяваць будзільнік"
+msgstr "Прызначыць будзільнік"
 
 #: packages/app-desktop/gui/MainScreen/commands/editAlarm.ts:29
 msgid "Set alarm:"
@@ -4060,7 +4060,7 @@ msgstr ""
 #: packages/app-mobile/components/screens/LogScreen.tsx:56
 #: packages/app-mobile/components/screens/Note.tsx:1261
 msgid "Share"
-msgstr "Падзяліцца"
+msgstr "Абагуліць"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteExportButton.tsx:21
 msgid "Share a copy of all notes in a file format that can be imported by Joplin on a computer."
@@ -4337,7 +4337,7 @@ msgstr "Памяць сховішча"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/setupToolbarButtons.ts:19
 msgid "Strikethrough"
-msgstr "Закрэслены"
+msgstr "Закрэслена"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v5/CodeMirror.tsx:190
 msgid "strong text"
@@ -5168,7 +5168,7 @@ msgstr "Абнаўленне..."
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:80
 msgid "Upgrade"
-msgstr "Абнавіць"
+msgstr "Абнавіць да новай версіі"
 
 #: packages/app-cli/app/command-sync.ts:42
 msgid "Upgrade the sync target to the latest version."
@@ -5262,7 +5262,7 @@ msgstr ""
 #: packages/lib/models/Setting.ts:961 packages/lib/models/Setting.ts:962
 #: packages/lib/models/Setting.ts:964
 msgid "Viewer"
-msgstr "Праглядчык"
+msgstr "Сродак прагляду"
 
 #: packages/lib/models/Setting.ts:1573
 msgid "Vim"
@@ -5368,12 +5368,12 @@ msgstr "Словы"
 
 #: packages/app-cli/app/setupCommand.ts:23
 msgid "y"
-msgstr "ё"
+msgstr "y"
 
 #: packages/app-cli/app/cli-utils.js:177
 #: packages/app-cli/app/setupCommand.ts:23
 msgid "Y"
-msgstr "Ё"
+msgstr "Y"
 
 #: packages/lib/models/Setting.ts:417
 msgid "yes"

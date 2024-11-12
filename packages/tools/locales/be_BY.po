@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-12 06:40\n"
+"PO-Revision-Date: 2024-11-12 12:40\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -530,23 +530,23 @@ msgstr "Аўтаматычна"
 
 #: packages/server/src/services/TaskService.ts:30
 msgid "Auto-add disabled accounts for deletion"
-msgstr ""
+msgstr "Аўтаматычнае дадаванне адключаных акаўнтаў для выдалення"
 
 #: packages/lib/models/Setting.ts:998
 msgid "Auto-pair braces, parentheses, quotations, etc."
-msgstr ""
+msgstr "Аўтаматычнае дадаванне парных, дужак, двукоссяў і г. д."
 
 #: packages/lib/models/Setting.ts:1480
 msgid "Automatically check for updates"
-msgstr ""
+msgstr "Аўтаматычна правяраць наяўнасць абнаўленняў"
 
 #: packages/lib/models/Setting.ts:1919
 msgid "Automatically delete notes in the trash after a number of days"
-msgstr ""
+msgstr "Аўтаматычна выдаляць нататкі са сметніцы праз некалькі дзён"
 
 #: packages/lib/models/Setting.ts:909
 msgid "Automatically switch theme to match system theme"
-msgstr ""
+msgstr "Аўтаматычна пераключаць тэму ў адпаведнасці з тэмай сістэмы"
 
 #: packages/app-desktop/gui/ConfigScreen/ButtonBar.tsx:48
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:816
@@ -566,7 +566,7 @@ msgstr "Бэта"
 
 #: packages/app-mobile/components/biometrics/biometricAuthenticate.ts:17
 msgid "Biometric unlock is not setup on the device. Please set it up in order to unlock Joplin. If the device is on lockout, consider switching it off and on to reset biometrics scanning."
-msgstr ""
+msgstr "На прыладзе не наладжана разблакаванне з дапамогай біяметрычных даных. Каб разблакаваць Joplin, наладзьце гэта. Калі прылада заблакаваная, перазапусціце яе, каб скінуць сканаванне біяметрычных даных."
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:55
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useInlineFormattingButtons.ts:14
@@ -576,7 +576,7 @@ msgstr "Тоўсты"
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.tsx:226
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.tsx:324
 msgid "Browse all plugins"
-msgstr ""
+msgstr "Агляд усіх убудоў"
 
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:612
 msgid "Browse..."
@@ -589,23 +589,23 @@ msgstr "Убудаваныя"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:85
 msgid "Bulleted List"
-msgstr ""
+msgstr "Маркіраваны спіс"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/PluginInfoModal.tsx:129
 msgid "by %s"
-msgstr ""
+msgstr "ад %s"
 
 #: packages/server/src/routes/admin/users.ts:160
 msgid "Can Share"
-msgstr ""
+msgstr "Можна абагульваць"
 
 #: packages/app-desktop/gui/ShareFolderDialog/ShareFolderDialog.tsx:119
 msgid "Can view"
-msgstr ""
+msgstr "Можна праглядаць"
 
 #: packages/app-desktop/gui/ShareFolderDialog/ShareFolderDialog.tsx:120
 msgid "Can view and edit"
-msgstr ""
+msgstr "Можна праглядаць і рэдагаваць"
 
 #: packages/app-desktop/bridge.ts:349 packages/app-desktop/bridge.ts:365
 #: packages/app-desktop/bridge.ts:423
@@ -642,7 +642,7 @@ msgstr "Скасаваць"
 
 #: packages/app-cli/app/app.ts:142
 msgid "Cancelling background synchronisation... Please wait."
-msgstr ""
+msgstr "Скасаванне фонавай сінхранізацыі..."
 
 #: packages/lib/Synchronizer.ts:206
 msgid "Cancelling..."
@@ -650,23 +650,23 @@ msgstr "Скасаванне..."
 
 #: packages/app-cli/app/command-sync.ts:289
 msgid "Cancelling... Please wait."
-msgstr ""
+msgstr "Скасаванне..."
 
 #: packages/lib/shim-init-node.ts:314
 msgid "Cannot access %s"
-msgstr ""
+msgstr "Немагчыма атрымаць доступ да %s"
 
 #: packages/app-cli/app/base-command.ts:19
 msgid "Cannot change encrypted item"
-msgstr ""
+msgstr "Немагчыма змяніць зашыфраваны элемент"
 
 #: packages/lib/models/Note.ts:616
 msgid "Cannot copy note to \"%s\" notebook"
-msgstr ""
+msgstr "Немагчыма скапіяваць нататку ў нататнік \"%s\""
 
 #: packages/app-mobile/components/screens/Notes.tsx:170
 msgid "Cannot create a new note: %s"
-msgstr ""
+msgstr "Немагчыма стварыць новую нататку: %s"
 
 #: packages/app-cli/app/command-attach.ts:22
 #: packages/app-cli/app/command-cat.ts:26 packages/app-cli/app/command-cp.ts:25
@@ -695,48 +695,48 @@ msgstr ""
 #: packages/lib/services/interop/InteropService.ts:270
 #: packages/lib/services/interop/InteropService.ts:287
 msgid "Cannot find \"%s\"."
-msgstr ""
+msgstr "Не ўдалося знайсці \"%s\"."
 
 #: packages/app-cli/app/command-mkbook.ts:28
 msgid "Cannot find: \"%s\""
-msgstr ""
+msgstr "Не ўдалося знайсці: \"%s\""
 
 #: packages/app-cli/app/command-sync.ts:202
 msgid "Cannot initialise synchroniser."
-msgstr ""
+msgstr "Немагчыма ініцыялізаваць сінхранізатар."
 
 #: packages/lib/services/interop/InteropService.ts:237
 msgid "Cannot load \"%s\" module for format \"%s\" and output \"%s\""
-msgstr ""
+msgstr "Немагчыма загрузіць модуль \"%s\" для фармату \"%s\" і вывесці \"%s\""
 
 #: packages/lib/services/interop/InteropService.ts:250
 msgid "Cannot load \"%s\" module for format \"%s\" and target \"%s\""
-msgstr ""
+msgstr "Немагчыма загрузіць модуль \"%s\" для фармату \"%s\" і мэтавага элемента \"%s\""
 
 #: packages/lib/models/Note.ts:628
 msgid "Cannot move note to \"%s\" notebook"
-msgstr ""
+msgstr "Немагчыма перамясціць нататку ў нататнік \"%s\""
 
 #: packages/app-mobile/components/screens/folder.js:73
 #: packages/lib/models/Folder.ts:853
 msgid "Cannot move notebook to this location"
-msgstr ""
+msgstr "Немагчыма перамясціць нататнік у гэтае месца"
 
 #: packages/lib/onedrive-api.ts:468
 msgid "Cannot refresh token: authentication data is missing. Starting the synchronisation again may fix the problem."
-msgstr ""
+msgstr "Немагчыма абнавіць токен: няма даных аўтэнтыфікацыі. Паўторны запуск сінхранізацыі можа развязаць праблему."
 
 #: packages/server/src/models/UserModel.ts:246
 msgid "Cannot save %s \"%s\" because it is larger than the allowed limit (%s)"
-msgstr ""
+msgstr "Немагчыма захаваць %s \"%s\", бо файл перавышае дазволены ліміт (%s)"
 
 #: packages/server/src/models/UserModel.ts:263
 msgid "Cannot save %s \"%s\" because it would go over the total allowed size (%s) for this account"
-msgstr ""
+msgstr "Немагчыма захаваць %s \"%s\", бо пры гэтым перавысіцца агульны дазволены памер (%s) для гэтага акаўнта"
 
 #: packages/lib/services/share/ShareService.ts:337
 msgid "Cannot share encrypted notebook with recipient %s because they have not enabled end-to-end encryption. They may do so from the screen Configuration > Encryption."
-msgstr ""
+msgstr "Немагчыма абагуліць зашыфраваны нататнік з атрымальнікам %s, бо ў яго не ўключана скразное шыфраванне. Гэта можна зрабіць у \"Канфігурацыя > Шыфраванне\"."
 
 #: packages/app-mobile/components/NoteEditor/SearchPanel.tsx:331
 msgid "Case sensitive"
@@ -744,7 +744,7 @@ msgstr "Зважаць на рэгістр"
 
 #: packages/app-desktop/gui/MainScreen/commands/toggleLayoutMoveMode.ts:7
 msgid "Change application layout"
-msgstr ""
+msgstr "Змяніць макет праграмы"
 
 #: packages/lib/services/spellChecker/SpellCheckerService.ts:210
 msgid "Change language"
@@ -756,17 +756,17 @@ msgstr "Знакі"
 
 #: packages/app-desktop/gui/NoteContentPropertiesDialog.tsx:107
 msgid "Characters excluding spaces"
-msgstr ""
+msgstr "Знакі без прагалаў"
 
 #: packages/app-desktop/gui/MenuBar.tsx:622
 #: packages/app-desktop/gui/MenuBar.tsx:917
 msgid "Check for updates..."
-msgstr ""
+msgstr "Праверыць на абнаўленні..."
 
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:267
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:473
 msgid "Check synchronisation configuration"
-msgstr ""
+msgstr "Праверыць канфігурацыю сінхранізацыі"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:90
 msgid "Checkbox"
@@ -774,15 +774,15 @@ msgstr "Адзнака"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/plugins/lists.js:2149
 msgid "Checkbox list"
-msgstr ""
+msgstr "Спіс з адзнакамі"
 
 #: packages/lib/components/shared/config/config-shared.ts:97
 msgid "Checking... Please wait."
-msgstr ""
+msgstr "Правяранне..."
 
 #: packages/app-mobile/components/screens/Note.tsx:1141
 msgid "Choose an option"
-msgstr ""
+msgstr "Абраць параметр"
 
 #: packages/app-desktop/gui/ExtensionBadge.tsx:72
 msgid "Chrome Web Store"
@@ -796,7 +796,7 @@ msgstr "Ачысціць"
 
 #: packages/app-mobile/components/SelectDateTimeDialog.tsx:152
 msgid "Clear alarm"
-msgstr ""
+msgstr "Выдаліць будзільнік"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/SearchPlugins.tsx:140
 msgid "Clear search"
@@ -804,15 +804,15 @@ msgstr "Ачысціць пошук"
 
 #: packages/app-desktop/gui/NoteRevisionViewer.tsx:204
 msgid "Click \"%s\" to restore the note. It will be copied in the notebook named \"%s\". The current version of the note will not be replaced or modified."
-msgstr ""
+msgstr "Пстрыкніце па \"%s\", каб аднавіць нататку. Яна скапіюецца ў нататнік пад назвай \"%s\". Бягучая версія нататкі не будзе заменена або зменена."
 
 #: packages/app-desktop/gui/NoteEditor/NoteEditor.tsx:382
 msgid "Click to add tags..."
-msgstr ""
+msgstr "Дадаць тэгі..."
 
 #: packages/lib/versionInfo.ts:76
 msgid "Client ID: %s"
-msgstr ""
+msgstr "Ідэнтыфікатар кліента: %s"
 
 #: packages/app-desktop/gui/MenuBar.tsx:351
 #: packages/app-desktop/gui/NoteContentPropertiesDialog.tsx:176
@@ -831,11 +831,11 @@ msgstr "Закрыць"
 
 #: packages/app-mobile/components/Dropdown.tsx:185
 msgid "Close dropdown"
-msgstr ""
+msgstr "Закрыць выплыўное меню"
 
 #: packages/lib/models/settings/settingValidations.ts:33
 msgid "Close the application, then delete your profile in \"%s\", and start the application again. Make sure you create a backup first by exporting all your notes as JEX."
-msgstr ""
+msgstr "Закрыйце праграму, затым выдаліце ​​свой профіль у \"%s\" і запусціце праграму зноў. Пераканайцеся, што вы спачатку стварылі рэзервовую копію, экспартаваўшы ўсе свае нататкі як JEX."
 
 #: packages/app-desktop/gui/KeymapConfig/utils/getLabel.ts:26
 #: packages/app-desktop/gui/MenuBar.tsx:687
@@ -844,11 +844,11 @@ msgstr "Закрыць акно"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/useLinkTooltips.ts:39
 msgid "Cmd-click to open"
-msgstr ""
+msgstr "Cmd + пстрыканне для адкрыцця"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/useLinkTooltips.ts:45
 msgid "Cmd-click to open: %s"
-msgstr ""
+msgstr "Cmd + пстрыканне для адкрыцця: %s"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:70
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useInlineFormattingButtons.ts:34
@@ -857,19 +857,19 @@ msgstr "Код"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/TinyMCE.tsx:685
 msgid "Code Block"
-msgstr ""
+msgstr "Блок кода"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/TinyMCE.tsx:1378
 msgid "Code View"
-msgstr ""
+msgstr "Прагляд кода"
 
 #: packages/lib/utils/joplinCloud/index.ts:173
 msgid "Collaborate on a notebook with others"
-msgstr ""
+msgstr "Сумесны нататнік"
 
 #: packages/app-desktop/gui/SyncWizard/Dialog.tsx:170
 msgid "Collaborate on notebooks with others"
-msgstr ""
+msgstr "Сумесны нататнік"
 
 #: packages/app-mobile/components/side-menu-content.tsx:430
 msgid "Collapse"
@@ -877,15 +877,15 @@ msgstr "Згарнуць"
 
 #: packages/app-desktop/gui/Sidebar/listItemComponents/ExpandIcon.tsx:26
 msgid "Collapse %s"
-msgstr ""
+msgstr "Згарнуць %s"
 
 #: packages/lib/services/ReportService.ts:351
 msgid "Coming alarms"
-msgstr ""
+msgstr "Бліжэйшыя будзільнікі"
 
 #: packages/lib/models/Setting.ts:1649
 msgid "Comma-separated list of paths to directories to load the certificates from, or path to individual cert files. For example: /my/cert_dir, /other/custom.pem. Note that if you make changes to the TLS settings, you must save your changes before clicking on \"Check synchronisation configuration\"."
-msgstr ""
+msgstr "Падзелены коскамі спіс шляхоў да каталогаў для загрузкі сертыфікатаў або шляхоў да файлаў асобных сертыфікатаў. Прыклад: /my/cert_dir, /other/custom.pem. Звярніце ўвагу, што калі вы змяняеце налады TLS, перш чым націскаць \"Праверыць канфігурацыю сінхранізацыі\", трэба захаваць змены."
 
 #: packages/lib/services/KeymapService.ts:322
 msgid "command"
@@ -897,11 +897,11 @@ msgstr "Каманда"
 
 #: packages/app-desktop/plugins/GotoAnything.tsx:696
 msgid "Command palette"
-msgstr ""
+msgstr "Камплект каманд"
 
 #: packages/app-desktop/gui/MainScreen/commands/commandPalette.ts:7
 msgid "Command palette..."
-msgstr ""
+msgstr "Камплект каманд..."
 
 #: packages/lib/services/noteList/defaultListRenderer.ts:24
 msgid "Compact"
@@ -914,24 +914,25 @@ msgstr "Завершана"
 
 #: packages/app-cli/app/command-e2ee.ts:81
 msgid "Completed decryption."
-msgstr ""
+msgstr "Расшыфроўванне завершана."
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/TaskButton.tsx:92
 msgid "Completed with warnings:\n"
 "%s"
-msgstr ""
+msgstr "Завершана з папярэджаннямі:\n"
+"%s"
 
 #: packages/lib/Synchronizer.ts:207
 msgid "Completed: %s (%s)"
-msgstr ""
+msgstr "Завершана: %s (%s)"
 
 #: packages/lib/models/Note.ts:64
 msgid "completion date"
-msgstr ""
+msgstr "дата завяршэння"
 
 #: packages/server/src/services/TaskService.ts:28
 msgid "Compress old changes"
-msgstr ""
+msgstr "Сціснуць старыя змены"
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileSwitcher.tsx:130
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:832
@@ -941,7 +942,7 @@ msgstr "Канфігурацыя"
 
 #: packages/app-mobile/components/screens/encryption-config.tsx:139
 msgid "Confirm password cannot be empty"
-msgstr ""
+msgstr "Пацвярджэнне пароля не можа быць пустым"
 
 #: packages/app-cli/app/command-e2ee.ts:96
 #: packages/app-mobile/components/screens/encryption-config.tsx:170
@@ -955,32 +956,32 @@ msgstr "Пацвярджэнне"
 
 #: packages/lib/services/ReportService.ts:330
 msgid "Conflicted: %d"
-msgstr ""
+msgstr "Канфлікт: %d"
 
 #: packages/lib/models/Folder.ts:167
 msgid "Conflicts"
-msgstr ""
+msgstr "Канфлікты"
 
 #: packages/lib/models/Resource.ts:478
 msgid "Conflicts (attachments)"
-msgstr ""
+msgstr "Канфлікты (далучэнні)"
 
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:256
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:470
 msgid "Connect to Joplin Cloud"
-msgstr ""
+msgstr "Падлучыцца да Joplin Cloud"
 
 #: packages/lib/utils/joplinCloud/index.ts:208
 msgid "Consolidated billing"
-msgstr ""
+msgstr "Супольны рахунак"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/SearchPlugins.tsx:107
 msgid "Content provided by %s"
-msgstr ""
+msgstr "Змесціва ад %s"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/PluginStates.tsx:102
 msgid "Content provided by: %s"
-msgstr ""
+msgstr "Змесціва ад: %s"
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileSwitcher.tsx:65
 msgid "Continue"
@@ -988,15 +989,15 @@ msgstr "Працягнуць"
 
 #: packages/app-mobile/components/screens/Note.tsx:1290
 msgid "Convert to note"
-msgstr ""
+msgstr "Пераўтварыць у нататку"
 
 #: packages/app-mobile/components/screens/Note.tsx:1290
 msgid "Convert to todo"
-msgstr ""
+msgstr "Пераўтварыць у задачу"
 
 #: packages/app-mobile/components/voiceTyping/VoiceTypingDialog.tsx:89
 msgid "Converting speech to text..."
-msgstr ""
+msgstr "Распазнаванне маўлення..."
 
 #: packages/app-desktop/gui/MenuBar.tsx:586
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:35
@@ -1007,14 +1008,14 @@ msgstr "Скапіяваць"
 
 #: packages/app-desktop/commands/copyDevCommand.ts:8
 msgid "Copy dev mode command to clipboard"
-msgstr ""
+msgstr "Скапіяаваць каманду рэжыму распрацоўніка ў буфер абмену"
 
 #: packages/app-desktop/gui/Sidebar/hooks/useOnRenderItem.tsx:207
 #: packages/app-desktop/gui/Sidebar/hooks/useOnRenderItem.tsx:221
 #: packages/app-desktop/gui/utils/NoteListUtils.ts:119
 #: packages/app-mobile/components/screens/Note.tsx:1305
 msgid "Copy external link"
-msgstr ""
+msgstr "Скапіяваць вонкавую спасылку"
 
 #: packages/app-desktop/gui/NoteEditor/utils/contextMenu.ts:171
 msgid "Copy image"
@@ -1027,24 +1028,24 @@ msgstr "Скапіяваць адрас спасылкі"
 #: packages/app-desktop/gui/JoplinCloudLoginScreen.tsx:94
 #: packages/app-mobile/components/screens/JoplinCloudLoginScreen.tsx:169
 msgid "Copy link to website"
-msgstr ""
+msgstr "Скапіяваць спасылку на вэб-сайт"
 
 #: packages/app-desktop/gui/utils/NoteListUtils.ts:104
 #: packages/app-mobile/components/screens/Note.tsx:1299
 msgid "Copy Markdown link"
-msgstr ""
+msgstr "Скапіяваць спасылку Markdown"
 
 #: packages/app-desktop/gui/NoteEditor/utils/contextMenu.ts:156
 msgid "Copy path to clipboard"
-msgstr ""
+msgstr "Скапіяваць шлях у буфер абмену"
 
 #: packages/app-desktop/gui/ShareNoteDialog.tsx:215
 msgid "Copy Shareable Link"
 msgid_plural "Copy Shareable Links"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Скапіяваць спасылку для абагульвання"
+msgstr[1] "Скапіяваць спасылкі для абагульвання"
+msgstr[2] "Скапіяваць спасылкі для абагульвання"
+msgstr[3] "Скапіяваць спасылкі для абагульвання"
 
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:52
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:75
@@ -1053,55 +1054,59 @@ msgstr "Скапіяваць у буфер абмену"
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:143
 msgid "Copy token"
-msgstr ""
+msgstr "Скапіяваць токен"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:618
 msgid "Copy version info"
-msgstr ""
+msgstr "Скапіяваць звесткі пра версію"
 
 #: packages/lib/components/shared/dropbox-login-shared.js:43
 msgid "Could not authorise application:\n\n"
 "%s\n\n"
 "Please try again."
-msgstr ""
+msgstr "Не ўдалося аўтарызаваць праграму:\n\n"
+" %s\n\n"
+" Паўтарыце спробу."
 
 #: packages/lib/JoplinServerApi.ts:113
 msgid "Could not connect to Joplin Server. Please check the Synchronisation options in the config screen. Full error was:\n\n"
 "%s"
-msgstr ""
+msgstr "Не ўдалося падлучыцца да сервера Joplin. Праверце параметры сінхранізацыі на экране канфігурацыі. Поўнае паведамленне памылкі:\n\n"
+" %s"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.tsx:324
 msgid "Could not connect to plugin repository."
-msgstr ""
+msgstr "Не ўдалося падлучыцца да рэпазіторыя ўбудоў."
 
 #: packages/app-desktop/InteropServiceHelper.ts:220
 msgid "Could not export notes: %s"
-msgstr ""
+msgstr "Не ўдалося экспартаваць нататкі: %s"
 
 #: packages/lib/components/shared/config/plugins/useOnInstallHandler.ts:71
 msgid "Could not install plugin: %s"
-msgstr ""
+msgstr "Не ўдалося ўсталяваць убудову %s"
 
 #: packages/lib/services/share/invitationRespond.ts:20
 msgid "Could not respond to the invitation. Please try again, or check with the notebook owner if they are still sharing it.\n\n"
 "The error was: \"%s\""
-msgstr ""
+msgstr "Не ўдалося адказаць на запрашэнне. Паспрабуйце яшчэ раз або пракансультуйцеся з уладальнікам нататніка, ці ён усё яшчэ абагульвае яго.\n\n"
+" Памылка: \"%s\""
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileSwitcher.tsx:56
 msgid "Could not switch profile: %s"
-msgstr ""
+msgstr "Не ўдалося пераключыць профіль: %s"
 
 #: packages/lib/components/EncryptionConfigScreen/utils.ts:219
 msgid "Could not upgrade master key: %s"
-msgstr ""
+msgstr "Не ўдалося абнавіць галоўны ключ да новай версіі: %s"
 
 #: packages/app-desktop/gui/MainScreen/commands/leaveSharedFolder.ts:26
 msgid "Could not verify the share status of this notebook - aborting. Please try again when you are connected to the internet."
-msgstr ""
+msgstr "Немагчыма праверыць статус абагульвання гэтага нататніка. Паўтарыце спробу, калі вы падлучыцеся да інтэрнэту."
 
 #: packages/app-mobile/components/biometrics/biometricAuthenticate.ts:20
 msgid "Could not verify your identity: %s"
-msgstr ""
+msgstr "Не ўдалося праверыць вашыя асабістыя даныя: %s"
 
 #: packages/app-desktop/gui/PromptDialog.tsx:301
 msgid "Create"
@@ -1109,24 +1114,24 @@ msgstr "Стварыць"
 
 #: packages/app-cli/app/command-mkbook.ts:19
 msgid "Create a new notebook under a parent notebook."
-msgstr ""
+msgstr "Стварыць новы нататнік у бацькоўскім нататніку."
 
 #: packages/app-mobile/components/NoteList.tsx:102
 msgid "Create a notebook"
-msgstr ""
+msgstr "Стварыць нататнік"
 
 #: packages/app-desktop/gui/MainScreen/commands/addProfile.ts:9
 #: packages/app-mobile/components/ProfileSwitcher/ProfileEditor.tsx:88
 msgid "Create new profile..."
-msgstr ""
+msgstr "Стварыць новы профіль..."
 
 #: packages/app-desktop/gui/EditFolderDialog/Dialog.tsx:166
 msgid "Create notebook"
-msgstr ""
+msgstr "Стварыць нататнік"
 
 #: packages/server/src/routes/admin/users.ts:257
 msgid "Create user"
-msgstr ""
+msgstr "Стварыць карыстальніка"
 
 #: packages/app-desktop/gui/NoteListHeader/utils/getColumnTitle.ts:14
 #: packages/app-desktop/gui/NotePropertiesDialog.tsx:67
@@ -1135,19 +1140,19 @@ msgstr "Створана"
 
 #: packages/lib/models/Note.ts:61
 msgid "created date"
-msgstr ""
+msgstr "дата стварэння"
 
 #: packages/lib/Synchronizer.ts:199
 msgid "Created local items: %d."
-msgstr ""
+msgstr "Створана лакальных элементаў: %d."
 
 #: packages/lib/services/ReportService.ts:288
 msgid "Created locally"
-msgstr ""
+msgstr "Створана лакальна"
 
 #: packages/lib/Synchronizer.ts:201
 msgid "Created remote items: %d."
-msgstr ""
+msgstr "Створана адлеглых элементаў: %d."
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:140
 msgid "Created: "
@@ -1156,36 +1161,36 @@ msgstr "Створана: "
 #: packages/app-cli/app/command-import.ts:51
 #: packages/app-desktop/gui/ImportScreen.tsx:90
 msgid "Created: %d."
-msgstr ""
+msgstr "Створана: %d."
 
 #: packages/app-mobile/components/screens/encryption-config.tsx:120
 #: packages/app-mobile/components/screens/Note.tsx:1101
 msgid "Created: %s"
-msgstr ""
+msgstr "Створана: %s"
 
 #: packages/app-cli/app/command-mknote.js:12
 msgid "Creates a new note."
-msgstr ""
+msgstr "Стварэнне новай нататкі."
 
 #: packages/app-cli/app/command-mkbook.ts:14
 msgid "Creates a new notebook."
-msgstr ""
+msgstr "Стварэнне новага нататніка."
 
 #: packages/app-cli/app/command-mktodo.js:12
 msgid "Creates a new to-do."
-msgstr ""
+msgstr "Стварэнне новай задачы."
 
 #: packages/app-desktop/gui/NoteEditor/NoteTitle/NoteTitleBar.tsx:114
 msgid "Creating new note..."
-msgstr ""
+msgstr "Стварэнне новай нататкі..."
 
 #: packages/app-desktop/gui/NoteEditor/NoteTitle/NoteTitleBar.tsx:114
 msgid "Creating new to-do..."
-msgstr ""
+msgstr "Стварэнне новай задачы..."
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/ExportDebugReportButton.tsx:29
 msgid "Creating report..."
-msgstr ""
+msgstr "Стварэнне справаздачы..."
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/useLinkTooltips.ts:41
 msgid "Ctrl-click to open"

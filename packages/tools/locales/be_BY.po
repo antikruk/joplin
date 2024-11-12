@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-12 12:40\n"
+"PO-Revision-Date: 2024-11-12 18:40\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -1194,39 +1194,39 @@ msgstr "Стварэнне справаздачы..."
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/useLinkTooltips.ts:41
 msgid "Ctrl-click to open"
-msgstr ""
+msgstr "Ctrl + пстрыканне для адкрыцця"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/useLinkTooltips.ts:47
 msgid "Ctrl-click to open: %s"
-msgstr ""
+msgstr "Ctrl + пстрыканне для адкрыцця: %s"
 
 #: packages/app-desktop/checkForUpdates.ts:90
 msgid "Current version is up-to-date."
-msgstr ""
+msgstr "Бягучая версія актуальная."
 
 #: packages/lib/models/Note.ts:62
 msgid "custom order"
-msgstr ""
+msgstr "адвольны парадак"
 
 #: packages/app-desktop/gui/NoteList/utils/canManuallySortNotes.ts:10
 msgid "Custom order"
-msgstr ""
+msgstr "Адвольны парадак"
 
 #: packages/lib/models/Setting.ts:1449
 msgid "Custom stylesheet for Joplin-wide app styles"
-msgstr ""
+msgstr "Адвольная табліца стыляў для стыляў праграм Joplin"
 
 #: packages/lib/models/Setting.ts:1432
 msgid "Custom stylesheet for rendered Markdown"
-msgstr ""
+msgstr "Адвольная табліца стыляў для візуалізаванага Markdown"
 
 #: packages/lib/models/Setting.ts:1648
 msgid "Custom TLS certificates"
-msgstr ""
+msgstr "Адвольныя сертыфікаты TLS"
 
 #: packages/lib/utils/joplinCloud/index.ts:194
 msgid "Customise the note publishing banner"
-msgstr ""
+msgstr "Наладзіць банер публікавання нататак"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:40
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/utils/useContextMenu.ts:84
@@ -1256,20 +1256,20 @@ msgstr "дні"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useListButtons.ts:43
 msgid "Decrease indent level"
-msgstr ""
+msgstr "Паменшыць узровень водступу"
 
 #: packages/app-cli/app/command-e2ee.ts:66
 msgid "Decrypted items: %d"
-msgstr ""
+msgstr "Расшыфраваныя элементы: %d"
 
 #: packages/lib/components/EncryptionConfigScreen/utils.ts:45
 msgid "Decrypted items: %s / %s"
-msgstr ""
+msgstr "Расшыфраваныя элементы: %s / %s"
 
 #: packages/app-desktop/gui/Sidebar/Sidebar.tsx:48
 #: packages/app-mobile/components/side-menu-content.tsx:515
 msgid "Decrypting items: %d/%d"
-msgstr ""
+msgstr "Расшыфроўванне элементаў: %d/%d"
 
 #: packages/lib/models/Setting.ts:1363 packages/lib/models/Setting.ts:1370
 #: packages/lib/models/Setting.ts:1571
@@ -1278,7 +1278,7 @@ msgstr "Прадвызначана"
 
 #: packages/app-cli/app/help-utils.js:71
 msgid "Default: %s"
-msgstr ""
+msgstr "Прадвызначана: %s"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginBox.tsx:184
 #: packages/app-desktop/gui/MainScreen/commands/permanentlyDeleteNote.ts:20
@@ -1295,57 +1295,58 @@ msgstr "Выдаліць"
 
 #: packages/app-desktop/gui/ResourceScreen.tsx:217
 msgid "Delete attachment \"%s\"?"
-msgstr ""
+msgstr "Выдаліць далучэнне \"%s\"?"
 
 #: packages/server/src/services/TaskService.ts:27
 msgid "Delete expired sessions"
-msgstr ""
+msgstr "Выдаліць пратэрмінаваныя сеансы"
 
 #: packages/server/src/services/TaskService.ts:22
 msgid "Delete expired tokens"
-msgstr ""
+msgstr "Выдаліць пратэрмінаваныя токены"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:110
 msgid "Delete line"
-msgstr ""
+msgstr "Выдаліць радок"
 
 #: packages/lib/models/Setting.ts:1473
 msgid "Delete local data and re-download from sync target"
-msgstr ""
+msgstr "Выдаліць лакальныя даныя і паўторна спампаваць з сервера сінхранізацыі"
 
 #: packages/app-desktop/gui/MainScreen/commands/deleteNote.ts:7
 msgid "Delete note"
-msgstr ""
+msgstr "Выдаліць нататку"
 
 #: packages/app-desktop/gui/MainScreen/commands/deleteFolder.ts:9
 msgid "Delete notebook"
-msgstr ""
+msgstr "Выдаліць нататнік"
 
 #: packages/lib/components/shared/config/plugins/useOnDeleteHandler.ts:16
 msgid "Delete plugin \"%s\"?"
-msgstr ""
+msgstr "Выдаліць убудову \"%s\"?"
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileSwitcher.tsx:102
 msgid "Delete profile \"%s\""
-msgstr ""
+msgstr "Выдаліць профіль \"%s\""
 
 #: packages/app-mobile/components/ScreenHeader/index.tsx:464
 msgid "Delete selected notes"
-msgstr ""
+msgstr "Выдаліць абраныя нататкі"
 
 #: packages/app-desktop/gui/MainScreen/commands/deleteFolder.ts:22
 #: packages/app-mobile/components/side-menu-content.tsx:226
 msgid "Delete the Inbox notebook?\n\n"
 "If you delete the inbox notebook, any email that's recently been sent to it may be lost."
-msgstr ""
+msgstr "Выдаліць нататнік уваходных лістоў?\n\n"
+"Калі вы выдаліце ​​нататнік уваходных лістоў, усе электронныя лісты, якія нядаўна ў яго былі адпраўленыя, могуць страціцца."
 
 #: packages/app-desktop/gui/ShareFolderDialog/ShareFolderDialog.tsx:245
 msgid "Delete this invitation? The recipient will no longer have access to this shared notebook."
-msgstr ""
+msgstr "Выдаліць гэтае запрашэнне? Атрымальнік больш не будзе мець доступу да гэтага абагуленага нататніка."
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileSwitcher.tsx:98
 msgid "Delete this profile?"
-msgstr ""
+msgstr "Выдаліць гэты профіль?"
 
 #: packages/app-desktop/gui/NotePropertiesDialog.tsx:69
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/PluginInfoModal.tsx:207
@@ -1354,40 +1355,40 @@ msgstr "Выдалена"
 
 #: packages/lib/Synchronizer.ts:203
 msgid "Deleted local items: %d."
-msgstr ""
+msgstr "Выдалена лакальных элементаў: %d."
 
 #: packages/lib/Synchronizer.ts:204
 msgid "Deleted remote items: %d."
-msgstr ""
+msgstr "Выдалена адлеглых элементаў: %d."
 
 #: packages/app-cli/app/command-rmnote.ts:20
 msgid "Deletes notes permanently, skipping the trash."
-msgstr ""
+msgstr "Поўнае выдаленне нататак, мінаючы сметніцу."
 
 #: packages/app-cli/app/command-rmbook.ts:14
 msgid "Deletes the given notebook."
-msgstr ""
+msgstr "Выдаленне пададзенага нататніка."
 
 #: packages/app-cli/app/command-rmbook.ts:19
 msgid "Deletes the notebook without asking for confirmation."
-msgstr ""
+msgstr "Выдаленне нататніка без запыту пацвярджэння."
 
 #: packages/app-cli/app/command-rmnote.ts:14
 msgid "Deletes the notes matching <note-pattern>."
-msgstr ""
+msgstr "Выдаленне нататак, якія адпавядаюць <note-pattern>."
 
 #: packages/app-cli/app/command-rmnote.ts:19
 msgid "Deletes the notes without asking for confirmation."
-msgstr ""
+msgstr "Выдаленне нататак без запыту пацвярджэння."
 
 #: packages/app-cli/app/command-export.ts:24
 msgid "Destination format: %s"
-msgstr ""
+msgstr "Фармат прызначэння: %s"
 
 #: packages/lib/services/noteList/defaultLeftToRightListRenderer.ts:25
 #: packages/lib/services/noteList/defaultMultiColumnsRenderer.ts:8
 msgid "Detailed"
-msgstr ""
+msgstr "Падрабязна"
 
 #: packages/lib/services/interop/Module.ts:62
 msgid "Directory"
@@ -1395,7 +1396,7 @@ msgstr "Каталог"
 
 #: packages/lib/models/Setting.ts:514
 msgid "Directory to synchronise with (absolute path)"
-msgstr ""
+msgstr "Каталог для сінхранізацыі (абсалютны шлях)"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:144
 msgid "Disable"
@@ -1404,15 +1405,15 @@ msgstr "Адключыць"
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:226
 #: packages/app-mobile/components/screens/encryption-config.tsx:284
 msgid "Disable encryption"
-msgstr ""
+msgstr "Адключыць шыфраванне"
 
 #: packages/app-desktop/gui/MainScreen/MainScreen.tsx:637
 msgid "Disable safe mode and restart"
-msgstr ""
+msgstr "Адключыць бяспечны рэжым і перазапусціць"
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:93
 msgid "Disable Web Clipper Service"
-msgstr ""
+msgstr "Адключыць службу Web Clipper"
 
 #: packages/app-cli/app/command-e2ee.ts:129
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:237
@@ -1426,7 +1427,7 @@ msgstr "Адключана"
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:200
 #: packages/app-mobile/components/screens/encryption-config.tsx:243
 msgid "Disabling encryption means *all* your notes and attachments are going to be re-synchronised and sent unencrypted to the sync target. Do you wish to continue?"
-msgstr ""
+msgstr "Адключэнне шыфравання азначае, што *ўсе* вашыя нататкі і далучэнні будуць паўторна сінхранізаваныя і адпраўленыя незашыфраванымі на сервер сінхранізацыі. Хочаце працягнуць?"
 
 #: packages/app-mobile/components/NoteEditor/ImageEditor/promptRestoreAutosave.ts:19
 msgid "Discard"
@@ -1444,56 +1445,56 @@ msgstr "Адхіліць"
 
 #: packages/app-cli/app/command-geoloc.ts:13
 msgid "Displays a geolocation URL for the note."
-msgstr ""
+msgstr "Паказвае URL-адрас геалакацыі для нататкі."
 
 #: packages/app-cli/app/command-ls.ts:28
 msgid "Displays only the first top <num> notes."
-msgstr ""
+msgstr "Паказвае толькі першыя верхнія нататкі <num>."
 
 #: packages/app-cli/app/command-ls.ts:31
 msgid "Displays only the items of the specific type(s). Can be `n` for notes, `t` for to-dos, or `nt` for notes and to-dos (eg. `-tt` would display only the to-dos, while `-tnt` would display notes and to-dos."
-msgstr ""
+msgstr "Паказвае толькі элементы пэўнага тыпу(-аў). Можа быць \"n\" для нататак, \"t\" для задач або \"nt\" для нататак і задач (напрыклад, \"-tt\" будзе паказваць толькі задачы, а \"-tnt\" нататкі і задачы."
 
 #: packages/app-cli/app/command-status.js:13
 msgid "Displays summary about the notes and notebooks."
-msgstr ""
+msgstr "Паказвае зводку пра нататкі і нататнікі."
 
 #: packages/app-cli/app/command-cat.ts:18
 msgid "Displays the complete information about note."
-msgstr ""
+msgstr "Паказвае поўную інфармацыю пра нататкі."
 
 #: packages/app-cli/app/command-cat.ts:14
 msgid "Displays the given note."
-msgstr ""
+msgstr "Паказвае пададзеную нататку."
 
 #: packages/app-cli/app/command-ls.ts:19
 msgid "Displays the notes in the current notebook. Use `ls /` to display the list of notebooks."
-msgstr ""
+msgstr "Паказвае нататкі ў бягучым нататніку. Выкарыстоўвайце \"ls /\", каб паглядзець спіс нататнікаў."
 
 #: packages/app-cli/app/command-help.ts:13
 msgid "Displays usage information."
-msgstr ""
+msgstr "Паказвае інфармацыю пра выкарыстанне."
 
 #: packages/app-cli/app/command-version.ts:11
 msgid "Displays version information"
-msgstr ""
+msgstr "Паказвае інфармацыю пра версію"
 
 #: packages/app-desktop/gui/ConfigScreen/ConfigScreen.tsx:729
 #: packages/app-desktop/gui/NoteList/utils/canManuallySortNotes.ts:11
 msgid "Do it now"
-msgstr ""
+msgstr "Зрабіць гэта зараз"
 
 #: packages/app-cli/app/command-import.ts:28
 msgid "Do not ask for confirmation."
-msgstr ""
+msgstr "Не пытацца пацвярджэння."
 
 #: packages/lib/components/EncryptionConfigScreen/utils.ts:55
 msgid "Do not lose the password as, for security purposes, this will be the *only* way to decrypt the data! To enable encryption, please enter your password below."
-msgstr ""
+msgstr "Не губляйце пароль, бо з прычыны бяспекі гэта будзе *адзіны* спосаб расшыфраваць даныя! Каб уключыць шыфраванне, ніжэй увядзіце пароль."
 
 #: packages/lib/models/Setting.ts:2850
 msgid "Donate, website"
-msgstr ""
+msgstr "Ахвяраваць, вэб-сайт"
 
 #: packages/app-mobile/components/NoteEditor/EditLinkDialog.tsx:150
 #: packages/app-mobile/components/voiceTyping/VoiceTypingDialog.tsx:115
@@ -1507,7 +1508,7 @@ msgstr "Спампаваць"
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:130
 msgid "Download and install the relevant extension for your browser:"
-msgstr ""
+msgstr "Спампуйце і ўсталюйце адпаведнае пашырэнне для вашага браўзера:"
 
 #: packages/lib/models/Resource.ts:409
 msgid "Downloaded"
@@ -1515,11 +1516,11 @@ msgstr "Спампавана"
 
 #: packages/lib/services/ReportService.ts:286
 msgid "Downloaded and decrypted"
-msgstr ""
+msgstr "Спампавана і расшыфравана"
 
 #: packages/lib/services/ReportService.ts:287
 msgid "Downloaded and encrypted"
-msgstr ""
+msgstr "Спампавана і зашыфравана"
 
 #: packages/lib/models/Resource.ts:408
 msgid "Downloading"
@@ -1527,11 +1528,11 @@ msgstr "Спампоўванне"
 
 #: packages/app-mobile/components/voiceTyping/VoiceTypingDialog.tsx:90
 msgid "Downloading %s language files..."
-msgstr ""
+msgstr "Спампоўванне моўных файлаў %s..."
 
 #: packages/app-cli/app/command-sync.ts:256
 msgid "Downloading resources..."
-msgstr ""
+msgstr "Спампоўванне рэсурсаў..."
 
 #: packages/lib/models/Setting.ts:432
 msgid "Dracula"
@@ -1539,7 +1540,7 @@ msgstr "Dracula"
 
 #: packages/app-mobile/components/screens/Note.tsx:1245
 msgid "Draw picture"
-msgstr ""
+msgstr "Намаляваць малюнак"
 
 #: packages/app-mobile/components/screens/Note.tsx:919
 msgid "Drawing"
@@ -1547,7 +1548,7 @@ msgstr "Рысаванне"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/TinyMCE.tsx:1378
 msgid "Drop notes or files here"
-msgstr ""
+msgstr "Перацягніце сюды нататкі альбо файлы"
 
 #: packages/lib/SyncTargetDropbox.js:25
 msgid "Dropbox"
@@ -1555,15 +1556,15 @@ msgstr "Dropbox"
 
 #: packages/app-desktop/gui/Root.tsx:229
 msgid "Dropbox Login"
-msgstr ""
+msgstr "Уваход у Dropbox"
 
 #: packages/app-desktop/gui/NoteListHeader/utils/getColumnTitle.ts:13
 msgid "Due"
-msgstr ""
+msgstr "Выкананне"
 
 #: packages/lib/models/Note.ts:63
 msgid "due date"
-msgstr ""
+msgstr "тэрмін выканання"
 
 #: packages/app-desktop/gui/MainScreen/commands/duplicateNote.ts:7
 #: packages/app-mobile/components/ScreenHeader/index.tsx:502
@@ -1573,11 +1574,11 @@ msgstr "Стварыць дублікат"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:114
 msgid "Duplicate line"
-msgstr ""
+msgstr "Дубляваць радок"
 
 #: packages/app-mobile/components/ScreenHeader/index.tsx:504
 msgid "Duplicate selected notes"
-msgstr ""
+msgstr "Дубляваць абраныя нататкі"
 
 #: packages/app-cli/app/command-cp.ts:13
 msgid "Duplicates the notes matching <note> to [notebook]. If no notebook is specified the note is duplicated in the current notebook."
@@ -5097,17 +5098,17 @@ msgstr ""
 
 #: packages/app-desktop/gui/ShareFolderDialog/ShareFolderDialog.tsx:380
 msgid "Unshare this notebook? The recipients will no longer have access to its content."
-msgstr ""
+msgstr "Адклікаць агульны доступ да гэтага сшытка? Атрымальнікі больш не будуць мець доступу да яго змесціва."
 
 #: packages/app-mobile/components/screens/Note.tsx:807
 msgid "Unsupported image type: %s"
-msgstr ""
+msgstr "Тып выявы не падтрымліваецца: %s"
 
 #: packages/app-desktop/gui/MainScreen/commands/openItem.ts:47
 #: packages/app-desktop/gui/NoteRevisionViewer.tsx:172
 #: packages/app-mobile/commands/openItem.ts:32
 msgid "Unsupported link or message: %s"
-msgstr ""
+msgstr "Спасылка або паведамленне не падтрымліваецца: %s"
 
 #: packages/app-desktop/gui/ResourceScreen.tsx:116
 #: packages/lib/models/BaseItem.ts:914 packages/lib/path-utils.ts:27
@@ -5127,11 +5128,11 @@ msgstr "Даступна абнаўленне"
 #: packages/server/src/routes/admin/users.ts:257
 #: packages/server/src/routes/index/users.ts:91
 msgid "Update profile"
-msgstr ""
+msgstr "Абнавіць профіль"
 
 #: packages/server/src/services/TaskService.ts:23
 msgid "Update total sizes"
-msgstr ""
+msgstr "Абнавіць агульныя памеры"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginBox.tsx:207
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginBox.tsx:208
@@ -5143,7 +5144,7 @@ msgstr "Абноўлена"
 
 #: packages/lib/models/Folder.ts:49 packages/lib/models/Note.ts:60
 msgid "updated date"
-msgstr ""
+msgstr "дата абнаўлення"
 
 #: packages/lib/Synchronizer.ts:200
 msgid "Updated local items: %d."

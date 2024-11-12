@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-09 15:00\n"
+"PO-Revision-Date: 2024-11-12 06:40\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -513,16 +513,16 @@ msgstr "Увага: калі вы зменіце гэтае размяшчэнн
 #: packages/app-cli/app/command-sync.ts:86
 #: packages/app-desktop/gui/OneDriveLoginScreen.tsx:49
 msgid "Authentication was not completed (did not receive an authentication token)."
-msgstr ""
+msgstr "Аўтэнтыфікацыя не была завершана (не быў атрыманы токен аўтэнтыфікацыі)."
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:139
 msgid "Authorisation token:"
-msgstr ""
+msgstr "Токен аўтарызацыі:"
 
 #: packages/app-desktop/gui/JoplinCloudLoginScreen.tsx:88
 #: packages/app-mobile/components/screens/JoplinCloudLoginScreen.tsx:162
 msgid "Authorise"
-msgstr ""
+msgstr "Аўтарызацыя"
 
 #: packages/lib/models/Setting.ts:786
 msgid "Auto"

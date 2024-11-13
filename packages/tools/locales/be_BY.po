@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-13 05:51\n"
+"PO-Revision-Date: 2024-11-13 11:52\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -1668,15 +1668,15 @@ msgstr "Электронная пошта"
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:47
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:23
 msgid "Email to note"
-msgstr ""
+msgstr "Электронная пошта для нататак"
 
 #: packages/lib/utils/joplinCloud/index.ts:187
 msgid "Email to Note"
-msgstr ""
+msgstr "Электронная пошта для нататак"
 
 #: packages/lib/models/Setting.ts:2843
 msgid "Email To Note, login information"
-msgstr ""
+msgstr "Электронная пошта для нататак, інфармацыя для ўваходу"
 
 #: packages/server/src/routes/admin/emails.ts:111
 #: packages/server/src/services/MustacheService.ts:133
@@ -1685,14 +1685,14 @@ msgstr "Адрасы e-mail"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v5/CodeMirror.tsx:191
 msgid "emphasised text"
-msgstr ""
+msgstr "падкрэслены тэкст"
 
 #: packages/app-desktop/commands/emptyTrash.ts:16
 #: packages/app-desktop/commands/emptyTrash.ts:8
 #: packages/app-mobile/components/side-menu-content.tsx:157
 #: packages/app-mobile/components/side-menu-content.tsx:161
 msgid "Empty trash"
-msgstr ""
+msgstr "Ачысціць сметніцу"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:144
 #: packages/app-mobile/components/biometrics/BiometricPopup.tsx:86
@@ -1702,44 +1702,44 @@ msgstr "Уключыць"
 
 #: packages/lib/models/Setting.ts:1278
 msgid "Enable ^sup^ syntax"
-msgstr ""
+msgstr "Уключыць сінтаксіс ^sup^"
 
 #: packages/lib/models/Setting.ts:1282
 msgid "Enable ++insert++ syntax"
-msgstr ""
+msgstr "Уключыць сінтаксіс ++insert++"
 
 #: packages/lib/models/Setting.ts:1274
 msgid "Enable ==mark== syntax"
-msgstr ""
+msgstr "Уключыць сінтаксіс ==mark=="
 
 #: packages/lib/models/Setting.ts:1277
 msgid "Enable ~sub~ syntax"
-msgstr ""
+msgstr "Уключыць сінтаксіс ~sub~"
 
 #: packages/lib/models/Setting.ts:1280
 msgid "Enable abbreviation syntax"
-msgstr ""
+msgstr "Уключыць сінтаксіс абрэвіятуры"
 
 #: packages/lib/models/Setting.ts:1271
 msgid "Enable audio player"
-msgstr ""
+msgstr "Уключыць аўдыяпрайгравальнік"
 
 #: packages/app-mobile/components/biometrics/BiometricPopup.tsx:82
 msgid "Enable biometrics authentication?"
-msgstr ""
+msgstr "Уключыць біяметрычную аўтэнтыфікацыю?"
 
 #: packages/lib/models/Setting.ts:1279
 msgid "Enable deflist syntax"
-msgstr ""
+msgstr "Уключыць сінтаксіс deflist"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:226
 #: packages/app-mobile/components/screens/encryption-config.tsx:284
 msgid "Enable encryption"
-msgstr ""
+msgstr "Уключыць шыфраванне"
 
 #: packages/lib/models/Setting.ts:1275
 msgid "Enable footnotes"
-msgstr ""
+msgstr "Уключыць зноскі"
 
 #: packages/lib/models/Setting.ts:1268
 msgid "Enable Fountain syntax support"

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-12 18:40\n"
+"PO-Revision-Date: 2024-11-13 05:51\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -1582,7 +1582,7 @@ msgstr "Дубляваць абраныя нататкі"
 
 #: packages/app-cli/app/command-cp.ts:13
 msgid "Duplicates the notes matching <note> to [notebook]. If no notebook is specified the note is duplicated in the current notebook."
-msgstr ""
+msgstr "Стварэнне дублікатаў нататак, якія адпавядаюць <note> у [notebook]. Калі нататнік не пазначаны, дублікат нататкі ствараецца ў бягучым нататніку."
 
 #: packages/app-desktop/gui/MainScreen/commands/openFolderDialog.ts:12
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/openEditDialog.ts:89
@@ -1596,7 +1596,7 @@ msgstr "Рэдагаваць"
 
 #: packages/app-desktop/commands/startExternalEditing.ts:10
 msgid "Edit in external editor"
-msgstr ""
+msgstr "Рэдагаваць у вонкавым рэдактары"
 
 #: packages/app-mobile/components/NoteEditor/EditLinkDialog.tsx:142
 msgid "Edit link"
@@ -1604,12 +1604,12 @@ msgstr "Рэдагаваць спасылку"
 
 #: packages/app-cli/app/command-edit.ts:17
 msgid "Edit note."
-msgstr ""
+msgstr "Рэдагаваць нататку."
 
 #: packages/app-desktop/gui/EditFolderDialog/Dialog.tsx:166
 #: packages/app-mobile/components/screens/folder.js:97
 msgid "Edit notebook"
-msgstr ""
+msgstr "Рэдагаваць нататнік"
 
 #: packages/app-mobile/components/ProfileSwitcher/ProfileEditor.tsx:88
 msgid "Edit profile"
@@ -1617,7 +1617,7 @@ msgstr "Рэдагаваць профiль"
 
 #: packages/app-desktop/commands/editProfileConfig.ts:9
 msgid "Edit profile configuration..."
-msgstr ""
+msgstr "Рэдагаваць канфігурацыю профілю..."
 
 #: packages/app-desktop/gui/NoteContentPropertiesDialog.tsx:144
 #: packages/lib/models/Setting.ts:961 packages/lib/models/Setting.ts:962
@@ -1631,32 +1631,32 @@ msgstr "Шрыфт рэдактара"
 
 #: packages/lib/models/Setting.ts:1382
 msgid "Editor font family"
-msgstr ""
+msgstr "Сямейства шрыфтоў рэдактара"
 
 #: packages/lib/models/Setting.ts:1344
 msgid "Editor font size"
-msgstr ""
+msgstr "Памер шрыфту рэдактара"
 
 #: packages/lib/models/Setting.ts:1403
 msgid "Editor maximum width"
-msgstr ""
+msgstr "Максімальная шырыня рэдактара"
 
 #: packages/lib/models/Setting.ts:1395
 msgid "Editor monospace font family"
-msgstr ""
+msgstr "Сямейства монашырынных шрыфтоў рэдактара"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:118
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:122
 msgid "Editor: %s"
-msgstr ""
+msgstr "Рэдактар: %s"
 
 #: packages/app-cli/app/command-ls.ts:32
 msgid "Either \"text\" or \"json\""
-msgstr ""
+msgstr "Альбо \"тэкст\", альбо \"json\""
 
 #: packages/lib/models/Setting.ts:1572
 msgid "Emacs"
-msgstr ""
+msgstr "Emacs"
 
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:39
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:55

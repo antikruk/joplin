@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-18 10:40\n"
+"PO-Revision-Date: 2024-11-18 16:40\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -1779,40 +1779,40 @@ msgstr "Уключэнне або адключэнне ўбудоў"
 
 #: packages/lib/models/Setting.ts:1273
 msgid "Enable PDF viewer"
-msgstr ""
+msgstr "Уключыць сродак прагляду PDF"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/EnablePluginSupportPage.tsx:119
 #: packages/lib/models/Setting.ts:1241
 msgid "Enable plugin support"
-msgstr ""
+msgstr "Уключыць падтрымку ўбудоў"
 
 #: packages/lib/models/Setting.ts:1263
 msgid "Enable soft breaks"
-msgstr ""
+msgstr "Уключыць мяккія разрывы радкоў"
 
 #: packages/lib/models/Setting.ts:1110
 msgid "Enable spellcheck in the text editor"
-msgstr ""
+msgstr "Уключыць праверку правапісу ў тэкставым рэдактары"
 
 #: packages/lib/models/Setting.ts:1276
 msgid "Enable table of contents extension"
-msgstr ""
+msgstr "Уключыць пашырэнне зместу"
 
 #: packages/lib/models/Setting.ts:1121
 msgid "Enable the Markdown toolbar"
-msgstr ""
+msgstr "Уключыць панэль інструментаў Markdown"
 
 #: packages/lib/models/Setting.ts:1264
 msgid "Enable typographer support"
-msgstr ""
+msgstr "Уключыць падтрымку набору"
 
 #: packages/lib/models/Setting.ts:1272
 msgid "Enable video player"
-msgstr ""
+msgstr "Уключыць відэапрайгравальнік"
 
 #: packages/app-desktop/gui/ClipperConfigScreen.tsx:104
 msgid "Enable Web Clipper Service"
-msgstr ""
+msgstr "Уключыць службу Web Clipper"
 
 #: packages/app-cli/app/command-e2ee.ts:129
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:237
@@ -1823,7 +1823,7 @@ msgstr "Уключана"
 
 #: packages/lib/components/EncryptionConfigScreen/utils.ts:50
 msgid "Enabling encryption means *all* your notes and attachments are going to be re-synchronised and sent encrypted to the sync target."
-msgstr ""
+msgstr "Уключэнне шыфравання азначае, што *ўсе* вашыя нататкі і далучэнні будуць паўторна сінхранізаваныя і адпраўленыя зашыфраванымі на сервер сінхранізацыі."
 
 #: packages/lib/models/BaseItem.ts:913
 msgid "Encrypted"
@@ -1831,7 +1831,7 @@ msgstr "Зашыфравана"
 
 #: packages/lib/models/BaseItem.ts:975
 msgid "Encrypted items cannot be modified"
-msgstr ""
+msgstr "Зашыфраваныя элементы нельга змяняць"
 
 #: packages/lib/models/Setting.ts:2811
 msgid "Encryption"
@@ -1840,17 +1840,17 @@ msgstr "Шыфраванне"
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:538
 #: packages/app-mobile/components/screens/encryption-config.tsx:290
 msgid "Encryption Config"
-msgstr ""
+msgstr "Канфігурацыя шыфравання"
 
 #: packages/app-cli/app/command-e2ee.ts:129
 #: packages/app-mobile/components/screens/encryption-config.tsx:306
 msgid "Encryption is: %s"
-msgstr ""
+msgstr "Шыфраванне: %s"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:160
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:261
 msgid "Encryption keys"
-msgstr ""
+msgstr "Ключы шыфравання"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:237
 msgid "Encryption:"
@@ -1862,16 +1862,16 @@ msgstr "Скразное шыфраванне"
 
 #: packages/app-mobile/components/screens/dropbox-login.js:66
 msgid "Enter code here"
-msgstr ""
+msgstr "Увядзіце сюды код"
 
 #: packages/app-cli/app/command-e2ee.ts:40
 #: packages/app-cli/app/command-e2ee.ts:86
 msgid "Enter master password:"
-msgstr ""
+msgstr "Увядзіце галоўны пароль:"
 
 #: packages/app-mobile/components/screens/folder.js:100
 msgid "Enter notebook title"
-msgstr ""
+msgstr "Увядзіце назву нататкі"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:122
 msgid "Enter password"
@@ -1879,7 +1879,7 @@ msgstr "Увядзіце пароль"
 
 #: packages/app-cli/app/help-utils.js:56
 msgid "Enum"
-msgstr ""
+msgstr "Пералік"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/TaskButton.tsx:72
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/PluginBox/PluginChips.tsx:45
@@ -1891,7 +1891,7 @@ msgstr "Памылка"
 #: packages/app-cli/app/command-edit.ts:83
 #: packages/app-desktop/commands/startExternalEditing.ts:23
 msgid "Error opening note in editor: %s"
-msgstr ""
+msgstr "Не ўдалося адкрыць нататку ў рэдактары: %s"
 
 #: packages/app-desktop/gui/KeymapConfig/KeymapConfigScreen.tsx:65
 #: packages/app-desktop/gui/MainScreen/commands/leaveSharedFolder.ts:31
@@ -1904,31 +1904,31 @@ msgstr "Памылка: %s"
 
 #: packages/lib/components/shared/config/config-shared.ts:101
 msgid "Error. Please check that URL, username, password, etc. are correct and that the sync target is accessible. The reported error was:"
-msgstr ""
+msgstr "Памылка. Праверце, ці правільныя URL-адрас, імя карыстальніка, пароль, і што сервер сінхранізацыі даступны. Паведамленне пра памылку:"
 
 #: packages/app-mobile/components/screens/LogScreen.tsx:242
 msgid "Errors only"
-msgstr ""
+msgstr "Толькі памылкі"
 
 #: packages/lib/services/interop/InteropService.ts:74
 msgid "Evernote Export File (as HTML)"
-msgstr ""
+msgstr "Экспартны файл Evernote (як HTML)"
 
 #: packages/lib/services/interop/InteropService.ts:83
 msgid "Evernote Export File (as Markdown)"
-msgstr ""
+msgstr "Экспартны файл Evernote (як Markdown)"
 
 #: packages/lib/services/interop/InteropService.ts:92
 msgid "Evernote Export Files (Directory, as HTML)"
-msgstr ""
+msgstr "Экспартныя файлы Evernote (каталог, як HTML)"
 
 #: packages/lib/services/interop/InteropService.ts:101
 msgid "Evernote Export Files (Directory, as Markdown)"
-msgstr ""
+msgstr "Экспартныя файлы Evernote (каталог, як Markdown)"
 
 #: packages/app-cli/app/command-exit.ts:11
 msgid "Exits the application."
-msgstr ""
+msgstr "Выхад з праграмы."
 
 #: packages/app-mobile/components/side-menu-content.tsx:430
 msgid "Expand"
@@ -1936,7 +1936,7 @@ msgstr "Разгарнуць"
 
 #: packages/app-desktop/gui/Sidebar/listItemComponents/ExpandIcon.tsx:28
 msgid "Expand %s"
-msgstr ""
+msgstr "Разгарнуць %s"
 
 #: packages/app-desktop/gui/KeymapConfig/KeymapConfigScreen.tsx:171
 #: packages/app-desktop/gui/Sidebar/hooks/useOnRenderItem.tsx:191
@@ -1951,15 +1951,15 @@ msgstr "Экспартаваць усё"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteExportButton.tsx:20
 msgid "Export all notes as JEX"
-msgstr ""
+msgstr "Экспартаваць усе нататкі як JEX"
 
 #: packages/app-desktop/gui/StatusScreen/StatusScreen.tsx:199
 msgid "Export debug report"
-msgstr ""
+msgstr "Экспартаваць адладачную справаздачу"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/ExportDebugReportButton.tsx:14
 msgid "Export Debug Report"
-msgstr ""
+msgstr "Экспартаваць адладачную справаздачу"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/ExportProfileButton.tsx:16
 msgid "Export profile"
@@ -1967,43 +1967,43 @@ msgstr "Экспартаваць профіль"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteExportButton.tsx:75
 msgid "Exported successfully!"
-msgstr ""
+msgstr "Паспяхова экспартавана!"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/ExportProfileButton.tsx:36
 msgid "Exporting profile..."
-msgstr ""
+msgstr "Экспартаванне профілю..."
 
 #: packages/app-desktop/InteropServiceHelper.ts:199
 msgid "Exporting to \"%s\" as \"%s\" format. Please wait..."
-msgstr ""
+msgstr "Экспартаванне \"%s\" у фармаце \"%s\"..."
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteExportButton.tsx:25
 msgid "Exporting..."
-msgstr ""
+msgstr "Экспартаванне..."
 
 #: packages/app-cli/app/command-export.ts:14
 msgid "Exports Joplin data to the given path. By default, it will export the complete database including notebooks, notes, tags and resources."
-msgstr ""
+msgstr "Экспартаванне даных Joplin па пазначаным шляху. Прадвызначана экспартуецца поўная база даных, уключаючы нататнікі, нататкі, тэгі і рэсурсы."
 
 #: packages/app-cli/app/command-export.ts:24
 msgid "Exports only the given note."
-msgstr ""
+msgstr "Экспартаванне толькі пададзенай нататкі."
 
 #: packages/app-cli/app/command-export.ts:24
 msgid "Exports only the given notebook."
-msgstr ""
+msgstr "Экспартаванне толькі пададзенага нататніка."
 
 #: packages/lib/models/Setting.ts:1714
 msgid "Fail-safe"
-msgstr ""
+msgstr "Устойлівасць да збояў"
 
 #: packages/lib/models/Setting.ts:1715
 msgid "Fail-safe: Do not wipe out local data when sync target is empty (often the result of a misconfiguration or bug)"
-msgstr ""
+msgstr "Устойлівасць да збояў: лакальныя даныя не выдаляюцца, калі мэтавы файл сінхранізацыі на серверы пусты (часта гэта вынік няправільнай канфігурацыі або памылкі)"
 
 #: packages/app-cli/app/main.js:100
 msgid "Fatal error:"
-msgstr ""
+msgstr "Фатальная памылка:"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:625
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:633
@@ -2012,12 +2012,12 @@ msgstr "Адзнакі функцый"
 
 #: packages/lib/Synchronizer.ts:205
 msgid "Fetched items: %d/%d."
-msgstr ""
+msgstr "Атрыманне элементаў: %d/%d."
 
 #: packages/app-desktop/gui/Sidebar/Sidebar.tsx:53
 #: packages/app-mobile/components/side-menu-content.tsx:520
 msgid "Fetching resources: %d/%d"
-msgstr ""
+msgstr "Атрыманне рэсурсаў: %d/%d"
 
 #: packages/lib/services/interop/Module.ts:62
 msgid "File"
@@ -2025,7 +2025,7 @@ msgstr "Файл"
 
 #: packages/lib/SyncTargetFilesystem.ts:18
 msgid "File system"
-msgstr ""
+msgstr "Файлавая сістэма"
 
 #: packages/app-mobile/components/screens/LogScreen.tsx:213
 #: packages/app-mobile/components/screens/LogScreen.tsx:214
@@ -2034,27 +2034,27 @@ msgstr "Фільтр"
 
 #: packages/app-mobile/components/screens/NoteTagsDialog.tsx:215
 msgid "Filter tags"
-msgstr ""
+msgstr "Фільтр тэгаў"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useActionButtons.ts:56
 msgid "Find and replace"
-msgstr ""
+msgstr "Знайсці і замяніць"
 
 #: packages/app-mobile/components/NoteEditor/SearchPanel.tsx:253
 msgid "Find: "
-msgstr ""
+msgstr "Пошук: "
 
 #: packages/app-desktop/gui/ExtensionBadge.tsx:65
 msgid "Firefox Extension"
-msgstr ""
+msgstr "Пашырэнне Firefox"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:559
 msgid "Fix search index"
-msgstr ""
+msgstr "Выправіць індэкс пошуку"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:559
 msgid "Fixing search index..."
-msgstr ""
+msgstr "Выпраўленне індэкса пошуку..."
 
 #: packages/app-desktop/gui/MenuBar.tsx:854
 #: packages/app-desktop/gui/NoteEditor/commands/focusElementNoteBody.ts:7
@@ -2066,35 +2066,35 @@ msgstr "Фокус"
 
 #: packages/lib/models/Setting.ts:1153 packages/lib/models/Setting.ts:1170
 msgid "Focus body"
-msgstr ""
+msgstr "Фокус цела"
 
 #: packages/lib/models/Setting.ts:1152 packages/lib/models/Setting.ts:1169
 msgid "Focus title"
-msgstr ""
+msgstr "Фокус назвы"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/ExportProfileButton.tsx:38
 msgid "For debugging purpose only: export your profile to an external SD card."
-msgstr ""
+msgstr "Толькі для адладжвання: экспартаванне профілю на SD-картку."
 
 #: packages/lib/models/Setting.ts:1694
 msgid "For example \"%s\""
-msgstr ""
+msgstr "Напрыклад,\"%s\""
 
 #: packages/app-cli/app/command-help.ts:37
 msgid "For information on how to customise the shortcuts please visit %s"
-msgstr ""
+msgstr "Каб даведацца пра тое, як наладзіць спалучэнні клавіш, наведайце %s"
 
 #: packages/app-mobile/components/screens/encryption-config.tsx:294
 msgid "For more information about End-To-End Encryption (E2EE) and advice on how to enable it please check the documentation:"
-msgstr ""
+msgstr "Каб падрабязней даведацца пра скразное шыфраванне (E2EE) і яго ўключэнне, зазірніце ў дакументацыю:"
 
 #: packages/app-cli/app/command-help.ts:85
 msgid "For the list of keyboard shortcuts and config options, type `help keymap`"
-msgstr ""
+msgstr "Каб атрымаць спіс спалучэнняў клавіш і параметраў канфігурацыі, увядзіце \"help keymap\""
 
 #: packages/lib/models/Setting.ts:678
 msgid "Force path style"
-msgstr ""
+msgstr "Стыль прымусовага шляху"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/MarkdownToolbar.tsx:46
 msgid "Formatting"
@@ -2107,15 +2107,15 @@ msgstr "Наперад"
 #: packages/app-cli/app/command-import.ts:50
 #: packages/app-desktop/gui/ImportScreen.tsx:89
 msgid "Found: %d."
-msgstr ""
+msgstr "Знойдзена: %d."
 
 #: packages/app-mobile/utils/getVersionInfoText.ts:42
 msgid "FTS enabled: %d"
-msgstr ""
+msgstr "FTS уключаны: %d"
 
 #: packages/app-desktop/checkForUpdates.ts:109
 msgid "Full changelog"
-msgstr ""
+msgstr "Поўны спіс зменаў"
 
 #: packages/server/src/routes/admin/users.ts:136
 msgid "Full name"
@@ -2128,57 +2128,57 @@ msgstr "Асноўныя налады"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:240
 msgid "Generated"
-msgstr ""
+msgstr "Згенеравана"
 
 #: packages/app-desktop/gui/ShareNoteDialog.tsx:185
 msgid "Generating link..."
 msgid_plural "Generating links..."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Генераванне спасылкі..."
+msgstr[1] "Генераванне спасылак..."
+msgstr[2] "Генераванне спасылак..."
+msgstr[3] "Генераванне спасылак..."
 
 #: packages/lib/models/Setting.ts:2845
 msgid "Geolocation, spellcheck, editor toolbar, image resize"
-msgstr ""
+msgstr "Геалакацыя, праверка правапісу, панэль інструментаў рэдактара, змена памеру выявы"
 
 #: packages/app-desktop/gui/ExtensionBadge.tsx:93
 msgid "Get it now:"
-msgstr ""
+msgstr "Атрымаць зараз:"
 
 #: packages/lib/models/Setting.ts:1481
 msgid "Get pre-releases when checking for updates"
-msgstr ""
+msgstr "Атрымліваць папярэднія выпускі пры правяранні наяўнасці абнаўленняў"
 
 #: packages/app-cli/app/command-config.ts:14
 msgid "Gets or sets a config value. If [value] is not provided, it will show the value of [name]. If neither [name] nor [value] is provided, it will list the current configuration."
-msgstr ""
+msgstr "Атрымлівае або вызначае значэнне канфігурацыі. Калі [value] не пададзена, будзе паказана значэнне [name]. Калі ні [name], ні [value] не пададзеныя, будзе вывезена бягучая канфігурацыя."
 
 #: packages/app-desktop/gui/JoplinCloudConfigScreen.tsx:44
 #: packages/app-mobile/components/screens/ConfigScreen/JoplinCloudConfig.tsx:59
 msgid "Go to Joplin Cloud profile"
-msgstr ""
+msgstr "Перайсці ў профіль Joplin Cloud"
 
 #: packages/app-mobile/components/screens/Note.tsx:1113
 msgid "Go to source URL"
-msgstr ""
+msgstr "Перайсці да зыходнага URL"
 
 #: packages/app-desktop/gui/MainScreen/commands/gotoAnything.ts:13
 #: packages/app-desktop/plugins/GotoAnything.tsx:688
 msgid "Goto Anything..."
-msgstr ""
+msgstr "Перайсці куды-небудзь..."
 
 #: packages/app-desktop/gui/Root.tsx:182
 msgid "Grant authorisation"
-msgstr ""
+msgstr "Даць дазвол"
 
 #: packages/app-cli/app/command-sync.ts:116
 msgid "Have you authorised the application login in the above URL?"
-msgstr ""
+msgstr "Ці аўтарызавалі вы ўваход у праграму па пададзеным вышэй URL-адрасе?"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useHeaderButtons.ts:14
 msgid "Header %d"
-msgstr ""
+msgstr "Загаловак %d"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/MarkdownToolbar.tsx:50
 msgid "Headers"
@@ -2196,11 +2196,11 @@ msgstr "Даведка"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/EnablePluginSupportPage.tsx:113
 msgid "Here's what we do to make plugins safer:"
-msgstr ""
+msgstr "Вось што мы робім, каб зрабіць убудовы больш бяспечнымі:"
 
 #: packages/app-mobile/utils/getVersionInfoText.ts:44
 msgid "Hermes enabled: %d"
-msgstr ""
+msgstr "Hermes уключаны: %d"
 
 #: packages/app-desktop/gui/MenuBar.tsx:658
 msgid "Hide %s"
@@ -2208,7 +2208,7 @@ msgstr "Схаваць %s"
 
 #: packages/app-mobile/components/NoteEditor/SearchPanel.tsx:221
 msgid "Hide advanced"
-msgstr ""
+msgstr "Схаваць дадаковае"
 
 #: packages/server/src/routes/admin/users.ts:206
 msgid "Hide disabled"
@@ -2216,19 +2216,19 @@ msgstr "Схаваць адключаныя"
 
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:160
 msgid "Hide disabled keys"
-msgstr ""
+msgstr "Схаваць адключаныя клавішы"
 
 #: packages/app-desktop/gui/KeymapConfig/utils/getLabel.ts:22
 msgid "Hide Joplin"
-msgstr ""
+msgstr "Схаваць Joplin"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/buttons/useActionButtons.ts:67
 msgid "Hide keyboard"
-msgstr ""
+msgstr "Схаваць клавіятуру"
 
 #: packages/app-mobile/components/NoteEditor/MarkdownToolbar/ToggleOverflowButton.tsx:19
 msgid "Hide more actions"
-msgstr ""
+msgstr "Схаваць дадатковыя дзеянні"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/TinyMCE/utils/setupToolbarButtons.ts:14
 msgid "Highlight"
@@ -2241,23 +2241,23 @@ msgstr "Хатняя старонка"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:100
 msgid "Horizontal Rule"
-msgstr ""
+msgstr "Гарызантальнае правіла"
 
 #: packages/lib/services/interop/InteropService.ts:176
 msgid "HTML Directory"
-msgstr ""
+msgstr "Каталог HTML"
 
 #: packages/lib/services/interop/InteropService.ts:110
 msgid "HTML document"
-msgstr ""
+msgstr "Дакумент HTML"
 
 #: packages/lib/services/interop/InteropService.ts:169
 msgid "HTML File"
-msgstr ""
+msgstr "Файл HTML"
 
 #: packages/app-desktop/gui/NoteEditor/editorCommandDeclarations.ts:65
 msgid "Hyperlink"
-msgstr ""
+msgstr "Гіперспасылка"
 
 #: packages/app-desktop/gui/EditFolderDialog/Dialog.tsx:141
 msgid "Icon"
@@ -2277,7 +2277,7 @@ msgstr "Бяздзейнічае"
 
 #: packages/lib/services/joplinCloudUtils.ts:37
 msgid "If you have already authorised, please wait for the application to sync to Joplin Cloud."
-msgstr ""
+msgstr "Калі вы ўжо выканалі аўтарызацыю, то пачакайце, пакуль праграма сінхранізуецца з Joplin Cloud."
 
 #: packages/app-desktop/ElectronAppWrapper.ts:89
 #: packages/app-desktop/gui/EncryptionConfigScreen/EncryptionConfigScreen.tsx:360
@@ -2288,11 +2288,11 @@ msgstr "Не зважаць"
 
 #: packages/lib/models/Setting.ts:1673
 msgid "Ignore TLS certificate errors"
-msgstr ""
+msgstr "Не зважаць на памылкі сертыфікатаў TLS"
 
 #: packages/lib/services/ReportService.ts:236
 msgid "Ignored items that cannot be synchronised"
-msgstr ""
+msgstr "Праігнараваныя элементы, якія немагчыма сінхранізаваць"
 
 #: packages/app-desktop/gui/EditFolderDialog/Dialog.tsx:106
 msgid "Images"
@@ -2307,36 +2307,37 @@ msgstr "Імпарт"
 
 #: packages/lib/models/Setting.ts:2816
 msgid "Import and Export"
-msgstr ""
+msgstr "Імпарт і экспарт"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteImportButton.tsx:66
 msgid "Import failed. Make sure a JEX file was selected.\n"
 "Details: %s"
-msgstr ""
+msgstr "Не ўдалося імпартаваць. Пераканайцеся, што быў абраны файл JEX.\n"
+"Падрабязнасці: %s"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteImportButton.tsx:21
 msgid "Import from JEX"
-msgstr ""
+msgstr "Імпартаваць з JEX"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteImportButton.tsx:22
 msgid "Import notes from a JEX (Joplin Export) file."
-msgstr ""
+msgstr "Імпартаванне нататак з файла JEX (Joplin Export)."
 
 #: packages/lib/models/Setting.ts:2848
 msgid "Import or export your data"
-msgstr ""
+msgstr "Імпартаванне або экспартаванне вашых даных"
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteImportButton.tsx:76
 msgid "Imported successfully!"
-msgstr ""
+msgstr "Паспяхова імпартавана!"
 
 #: packages/app-desktop/gui/MenuBar.tsx:311
 msgid "Importing from \"%s\" as \"%s\" format. Please wait..."
-msgstr ""
+msgstr "Імпартаванне з \"%s\" у фармаце \"%s\"..."
 
 #: packages/app-cli/app/command-import.ts:68
 msgid "Importing notes..."
-msgstr ""
+msgstr "Імпартаванне нататак..."
 
 #: packages/app-mobile/components/screens/ConfigScreen/NoteExportSection/NoteImportButton.tsx:26
 msgid "Importing..."
@@ -2344,11 +2345,11 @@ msgstr "Імпартаванне..."
 
 #: packages/app-cli/app/command-import.ts:16
 msgid "Imports data into Joplin."
-msgstr ""
+msgstr "Імпартаванне даных у Joplin."
 
 #: packages/lib/models/Setting.ts:781
 msgid "In \"Manual\" mode, attachments are downloaded only when you click on them. In \"Auto\", they are downloaded when you open the note. In \"Always\", all the attachments are downloaded whether you open the note or not."
-msgstr ""
+msgstr "У рэжыме \"Уласнаручна\" далучэнні спампоўваюцца толькі пры націсканні па іх. У \"Аўтаматычна\" яны спампоўваюцца пры адкрыцці нататкі. У рэжыме \"Заўсёды\" ўсе далучэнні спампоўваюцца незалежна ад таго, адкрываеце вы нататку ці не."
 
 #: packages/app-cli/app/command-help.ts:78
 msgid "In any command, a note or notebook can be referred to by title or ID, or using the shortcuts `$n` or `$b` for, respectively, the currently selected note or notebook. `$c` can be used to refer to the currently selected item."

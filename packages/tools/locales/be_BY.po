@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /dev/packages/tools/locales/en_US.po\n"
 "X-Crowdin-File-ID: 18169\n"
-"PO-Revision-Date: 2024-11-13 11:52\n"
+"PO-Revision-Date: 2024-11-18 10:40\n"
 
 #: packages/app-mobile/components/screens/ConfigScreen/ConfigScreen.tsx:600
 msgid "- Camera: to allow taking a picture and attaching it to a note."
@@ -897,11 +897,11 @@ msgstr "Каманда"
 
 #: packages/app-desktop/plugins/GotoAnything.tsx:696
 msgid "Command palette"
-msgstr "Камплект каманд"
+msgstr "Палітра каманд"
 
 #: packages/app-desktop/gui/MainScreen/commands/commandPalette.ts:7
 msgid "Command palette..."
-msgstr "Камплект каманд..."
+msgstr "Палітра каманд..."
 
 #: packages/lib/services/noteList/defaultListRenderer.ts:24
 msgid "Compact"
@@ -1743,31 +1743,31 @@ msgstr "Уключыць зноскі"
 
 #: packages/lib/models/Setting.ts:1268
 msgid "Enable Fountain syntax support"
-msgstr ""
+msgstr "Уключыць падтрымку сінтаксісу Fountain"
 
 #: packages/lib/models/Setting.ts:1265
 msgid "Enable Linkify"
-msgstr ""
+msgstr "Уключыць Linkify"
 
 #: packages/lib/models/Setting.ts:1281
 msgid "Enable markdown emoji"
-msgstr ""
+msgstr "Уключыць эмодзі markdown"
 
 #: packages/lib/models/Setting.ts:1267
 msgid "Enable math expressions"
-msgstr ""
+msgstr "Уключыць матэматычныя выразы"
 
 #: packages/lib/models/Setting.ts:1269
 msgid "Enable Mermaid diagrams support"
-msgstr ""
+msgstr "Уключыць падтрымку дыяграм Mermaid"
 
 #: packages/lib/models/Setting.ts:1283
 msgid "Enable multimarkdown table extension"
-msgstr ""
+msgstr "Уключыць пашырэнне табліцы з некалькімі разметкамі"
 
 #: packages/lib/models/Setting.ts:1729
 msgid "Enable note history"
-msgstr ""
+msgstr "Уключыць гісторыю нататак"
 
 #: packages/lib/models/Setting.ts:881
 msgid "Enable optical character recognition (OCR)"
@@ -1775,7 +1775,7 @@ msgstr "Уключыць аптычнае распазнаванне знака�
 
 #: packages/lib/models/Setting.ts:2849
 msgid "Enable or disable plugins"
-msgstr ""
+msgstr "Уключэнне або адключэнне ўбудоў"
 
 #: packages/lib/models/Setting.ts:1273
 msgid "Enable PDF viewer"
